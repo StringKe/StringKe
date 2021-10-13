@@ -39,3 +39,13 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![lodash](https://img.shields.io/badge/-lodash-black?style=flat-square&logo=javascript)
 
+
+[![StringKe GitHub stats](https://github-readme-stats.vercel.app/api?username=stringke)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🏆 Github Profile Trophy
+
+![](https://github-profile-trophy.vercel.app/?username=stringke&theme=flat&column=8)
+
+## Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stringke&layout=compact&show_icons=true&theme=flat&hide_title=true)
