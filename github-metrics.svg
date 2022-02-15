@@ -1422,7 +1422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tauri-apps/tauri-docs</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Jan 16 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">The source for all tauri project documentation.</div>
@@ -2278,7 +2278,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Feb 2022, 19:11:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 15 Feb 2022, 20:20:47 (timezone Asia/Shanghai) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
