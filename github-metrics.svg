@@ -1438,7 +1438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ssleptsov/ninja-keys</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.</div>
@@ -1544,7 +1544,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebook/react</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A declarative, efficient, and flexible JavaScript library for building user interfaces.</div>
@@ -2145,7 +2145,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.60m out of 282m repositories</span>
+                                    <span class="gh">ranked 1.60m out of 283m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">8</div>
                                     </div>
@@ -2194,7 +2194,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.87m out of 282m repositories</span>
+                                    <span class="gh">ranked 3.87m out of 283m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">1</div>
                                     </div>
@@ -2294,7 +2294,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Feb 2022, 14:16:58 (timezone Asia/Shanghai) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 17 Feb 2022, 15:13:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
