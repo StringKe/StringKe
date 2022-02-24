@@ -1379,7 +1379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>akveo/nebular</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1538,7 +1538,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ssleptsov/ninja-keys</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.</div>
@@ -1779,7 +1779,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 400k out of 85m users</span>
+                                    <span class="gh">ranked 401k out of 85m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">53</div>
                                     </div>
@@ -2288,7 +2288,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Feb 2022, 14:16:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 24 Feb 2022, 15:12:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
