@@ -1364,7 +1364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>akveo/nebular</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1523,7 +1523,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ssleptsov/ninja-keys</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Keyboard shortcuts interface for your website. Working with static HTML, Vanilla JS, Vue, React, Svelte.</div>
@@ -2273,7 +2273,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Feb 2022, 14:17:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 28 Feb 2022, 15:13:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
