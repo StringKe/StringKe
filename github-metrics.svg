@@ -1410,7 +1410,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>azimuttapp/azimutt</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema</div>
@@ -1463,7 +1463,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pinterest/ktlint</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An anti-bikeshedding Kotlin linter with built-in formatter</div>
@@ -2272,7 +2272,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Mar 2022, 17:12:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 6 Mar 2022, 18:14:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
