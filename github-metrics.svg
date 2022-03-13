@@ -1469,7 +1469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>StringKe/fdbd</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">fast database design tool. 快速数据库设计工具</div>
@@ -1723,7 +1723,7 @@
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 334k out of 86m users</span>
+                                    <span class="gh">ranked 334k out of 87m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">59</div>
                                     </div>
@@ -2043,7 +2043,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 959k out of 86m users</span>
+                                    <span class="gh">ranked 959k out of 87m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">9</div>
                                     </div>
@@ -2267,7 +2267,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Mar 2022, 14:19:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 13 Mar 2022, 15:13:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
