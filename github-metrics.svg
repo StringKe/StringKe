@@ -1364,7 +1364,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fastify/fastify</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and low overhead web framework, for Node.js</div>
@@ -1417,7 +1417,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>icpz/WeChat-AntiDuck</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Invalid/Disable AudioDeviceDuck()</div>
@@ -2270,7 +2270,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Apr 2022, 21:26:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 18 Apr 2022, 22:13:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
