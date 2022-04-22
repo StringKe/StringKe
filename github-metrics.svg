@@ -1453,7 +1453,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adamhaile/S</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">S.js - Simple, Clean, Fast Reactive Programming in Javascript</div>
@@ -1506,7 +1506,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>solidjs/solid</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A declarative, efficient, and flexible JavaScript library for building user interfaces.</div>
@@ -2259,7 +2259,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Apr 2022, 09:11:26 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 22 Apr 2022, 11:42:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
