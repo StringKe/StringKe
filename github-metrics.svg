@@ -1477,7 +1477,7 @@
                                         <span>starred 1 day ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Redis(ioredis) module for NestJS framework</div>
+                                <div class="field description">Redis(ioredis) module for NestJS framework.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2280,7 +2280,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 May 2022, 21:38:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 25 May 2022, 22:16:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
