@@ -1379,7 +1379,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pmndrs/jotai</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">👻 Primitive and flexible state management for React</div>
@@ -1535,7 +1535,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>whyour/qinglong</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）</div>
@@ -2288,7 +2288,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Jun 2022, 23:18:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 10 Jun 2022, 00:19:46 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
