@@ -1352,7 +1352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gudaoxuri/dew</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">微服务一站式解决方案，提供：架构指南、容器优先/兼容Spring Cloud与Service Mesh的框架、最佳实践及Devops标准化流程。</div>
@@ -1458,7 +1458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>leonardomso/33-js-concepts</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📜 33 JavaScript concepts every developer should know.</div>
@@ -1511,7 +1511,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stephentian/33-js-concepts</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2031,7 +2031,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.16m out of 315m repositories</span>
+                                    <span class="gh">ranked 1.16m out of 316m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">7</div>
                                     </div>
@@ -2127,7 +2127,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 609k out of 315m repositories</span>
+                                    <span class="gh">ranked 609k out of 316m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">33</div>
                                     </div>
@@ -2261,7 +2261,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jun 2022, 14:16:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 18 Jun 2022, 15:12:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
