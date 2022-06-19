@@ -1363,7 +1363,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-dingtalk/dingtalk-pierced-client</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">钉钉内网穿透客户端，鉴于很多开发者在临时体验开发时往往没有公网域名或者公网IP，本工具提供了一个公网代理服务，目的是方便开发测试，仅用于开发测试过程，不可用于线上生产环境。</div>
@@ -1404,7 +1404,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>open-dingtalk/pierced</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">钉钉内网穿透</div>
@@ -2251,7 +2251,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jun 2022, 00:18:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 20 Jun 2022, 01:13:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
