@@ -1352,7 +1352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ForteScarlet/simpler-robot</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple Robot，一个通用的bot风格事件调度框架，以灵活的统一标准来编写bot应用。simpler-robot是用于区别于旧版本仓库 simple-robot 的新版本命名。</div>
@@ -1405,7 +1405,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lukechilds/merge-images</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Easily compose images together without messing around with canvas</div>
@@ -1458,7 +1458,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>danilowoz/react-content-loader</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚪ SVG-Powered component to easily create skeleton loadings.</div>
@@ -1511,7 +1511,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Programming-With-Love/coffee-spring</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2267,7 +2267,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jul 2022, 16:17:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 2 Jul 2022, 17:13:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
