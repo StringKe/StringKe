@@ -1347,7 +1347,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MCSManager/MCSManager</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">全中文，分布式，高扩展性，开箱即用，支持 Docker，兼容 Minecraft 和所有控制台程序的服务端程序管理面板</div>
@@ -1400,7 +1400,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>slint-ui/slint</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.</div>
@@ -1453,7 +1453,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chokcoco/iCSS</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">不止于 CSS</div>
@@ -2253,7 +2253,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Aug 2022, 19:13:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 5 Aug 2022, 20:29:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
