@@ -1380,7 +1380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebook/yoga</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.</div>
@@ -2292,7 +2292,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Aug 2022, 16:19:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 24 Aug 2022, 17:14:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
