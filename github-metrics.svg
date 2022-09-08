@@ -1385,7 +1385,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fudiwei/wxjssdk-promisify</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">为微信公众号 JS-SDK 提供 TypeScript 支持，同时将其基于回调函数的异步 API 转化为 Promise 形式。</div>
@@ -1438,7 +1438,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>angular/universal</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Server-side rendering and Prerendering for Angular</div>
@@ -1491,7 +1491,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>angular/angular</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The modern web developer’s platform</div>
@@ -1807,7 +1807,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.8911704312115019 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.9336071184120489 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2298,7 +2298,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Sept 2022, 12:06:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 8 Sept 2022, 13:59:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
