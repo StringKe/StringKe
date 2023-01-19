@@ -329,7 +329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alttch/busrt</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">BUS/RT - Modern, fast, Rust-native IPC broker</div>
@@ -382,7 +382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>so1ve/clerc</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🖖🏻 Clerc: The full-featured cli framework.</div>
@@ -1197,7 +1197,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jan 2023, 13:12:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 19 Jan 2023, 14:16:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
