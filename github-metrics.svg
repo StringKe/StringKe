@@ -329,7 +329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>RainEggplant/noname</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PWA 版无名杀的部署仓库（PWA 配置仓库请见 https://github.com/RainEggplant/noname-pwa ）</div>
@@ -382,7 +382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>libccy/noname</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -489,7 +489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>eatmoreapple/openwechat</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">golang微信SDK</div>
@@ -1113,7 +1113,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 593k out of 372m repositories</span>
+                                    <span class="gh">ranked 558k out of 372m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 40 stars</div>
                             </div>
@@ -1204,7 +1204,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jan 2023, 01:11:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 27 Jan 2023, 02:15:52 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
