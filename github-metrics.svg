@@ -329,7 +329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>juspay/hyperswitch</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An Open Source Financial Switch to make Payments fast, reliable and affordable</div>
@@ -382,7 +382,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cellbang/malagu</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Malagu is a Serverless First, componentized, platform-independent progressive application framework based on TypeScript.</div>
@@ -1044,7 +1044,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.13m out of 373m repositories</span>
+                                    <span class="gh">ranked 1.13m out of 374m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 8 times</div>
                             </div>
@@ -1113,7 +1113,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 594k out of 373m repositories</span>
+                                    <span class="gh">ranked 594k out of 374m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 40 stars</div>
                             </div>
@@ -1204,7 +1204,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Feb 2023, 14:16:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 2 Feb 2023, 15:12:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
