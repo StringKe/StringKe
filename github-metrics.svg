@@ -329,7 +329,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>keijack/python-eureka-client</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A eureka client written in python. Support registering your python component to Eureka Server, as well as calling remote services by pulling the the Eureka registry.</div>
@@ -429,7 +429,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lxgw/LxgwWenKai</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。</div>
@@ -1199,7 +1199,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Feb 2023, 09:07:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 27 Feb 2023, 10:47:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
