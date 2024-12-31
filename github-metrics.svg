@@ -557,7 +557,7 @@ This commit enhances the overall Docker integration, ensuring a more efficient a
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 67.6k out of 145m users</span>
+                                    <span class="gh">ranked 67.6k out of 152m users</span>
                                 </div>
                                 <div class="text">Published 180 public repositories</div>
                             </div>
@@ -821,7 +821,7 @@ This commit enhances the overall Docker integration, ensuring a more efficient a
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 424k out of 145m users</span>
+                                    <span class="gh">ranked 424k out of 152m users</span>
                                 </div>
                                 <div class="text">Followed by 36 users</div>
                             </div>
@@ -890,7 +890,7 @@ This commit enhances the overall Docker integration, ensuring a more efficient a
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 763k out of 218m repositories</span>
+                                    <span class="gh">ranked 763k out of 222m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 41 stars</div>
                             </div>
@@ -981,7 +981,7 @@ This commit enhances the overall Docker integration, ensuring a more efficient a
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Dec 2024, 18:14:11 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 31 Dec 2024, 19:10:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
