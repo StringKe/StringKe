@@ -859,7 +859,7 @@ This commit improves the business event model and enhances data handling across 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 438k out of 152m users</span>
+                                    <span class="gh">ranked 437k out of 152m users</span>
                                 </div>
                                 <div class="text">Followed by 35 users</div>
                             </div>
@@ -928,7 +928,7 @@ This commit improves the business event model and enhances data handling across 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 764k out of 214m repositories</span>
+                                    <span class="gh">ranked 764k out of 222m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 41 stars</div>
                             </div>
@@ -1019,7 +1019,7 @@ This commit improves the business event model and enhances data handling across 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jan 2025, 00:16:39 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jan 2025, 01:12:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
