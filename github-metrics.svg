@@ -928,7 +928,7 @@ This commit improves the business event model and enhances data handling across 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 764k out of 226m repositories</span>
+                                    <span class="gh">ranked 764k out of 213m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 41 stars</div>
                             </div>
@@ -1019,7 +1019,7 @@ This commit improves the business event model and enhances data handling across 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jan 2025, 19:11:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Jan 2025, 20:26:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
