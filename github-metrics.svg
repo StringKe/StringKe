@@ -35,8 +35,8 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -595,7 +595,7 @@ This commit improves the business event model and enhances data handling across 
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 67.7k out of 152m users</span>
+                                    <span class="gh">ranked 67.7k out of 149m users</span>
                                 </div>
                                 <div class="text">Published 180 public repositories</div>
                             </div>
@@ -859,7 +859,7 @@ This commit improves the business event model and enhances data handling across 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 437k out of 152m users</span>
+                                    <span class="gh">ranked 437k out of 149m users</span>
                                 </div>
                                 <div class="text">Followed by 35 users</div>
                             </div>
@@ -928,7 +928,7 @@ This commit improves the business event model and enhances data handling across 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 764k out of 223m repositories</span>
+                                    <span class="gh">ranked 764k out of 220m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 41 stars</div>
                             </div>
@@ -1019,7 +1019,7 @@ This commit improves the business event model and enhances data handling across 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Jan 2025, 07:13:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jan 2025, 09:02:13 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
