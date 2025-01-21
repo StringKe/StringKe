@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1423" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1740" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column,footer{display:flex;flex-direction:column}.column{align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.track{display:flex;align-items:center;justify-content:center;margin-bottom:4px}.track img{margin:0 10px;border-radius:7px;flex-shrink:0}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement .gh{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -254,12 +254,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 48 commits)</small>
+                    <small class="h-details">(computed from last 49 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 29.4 characters per line of code written</li>
+                        <li>Has approximately 30.4 characters per line of code written</li>
                         <li>Mostly pushes code around 10:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
@@ -347,6 +347,252 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 87 commits in
+                                        <span class="repo">Sansoni-Management-Dev-Team/ai-call-center</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e574d36</div>
+                                        <div class="message">feat(aic): update EventOnUserPage to enhance file handling and icon representation
+
+- Modified EventOnUserPage to change file names and improve code representation for task and metadata.
+- Introduced new icons for better visual distinction of file types.
+- Enhanced the structure of the displayed data by adding a new 'Metadata' file entry.
+- Improved overall user experience by refining the data presentation logic.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ae9f1e</div>
+                                        <div class="message">feat(aic): disable create and edit actions in BusinessEventUserCallResultPage
+
+- Updated BusinessEventUserCallResultPage to disable create and edit functionalities for user call results.
+- Enhanced user interface by preventing modifications to existing call results, ensuring data integrity.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c0d10d</div>
+                                        <div class="message">feat(aic): enhance BusinessEventUserCallResult with answer handling and UI improvements
+
+- Updated BusinessEventUserCallResultEntity to include answerSchema, answer, and answerStatus fields for better data management.
+- Enhanced CallResultQueue to process and store answers from call results.
+- Improved BusinessEventUserCallResultService to support querying by phone number.
+- Added new UI components in EventUserCallResultPage for submitting user answers with dynamic form validation.
+- Integrated new analysis field types in AgentSettingsInput for better data input options.
+- Updated navigation to include a new 'Results' section for better user access to call results.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bc78c2c</div>
+                                        <div class="message">feat(aic): implement BusinessEventUserCallResult feature with CRUD operations and queue integration
+
+- Added BusinessEventUserCallResultController for handling API requests related to business event user call results.
+- Introduced BusinessEventUserCallResultService for business logic and data management.
+- Created BusinessEventUserCallResultEntity and corresponding repository for database interactions.
+- Implemented CallResultQueue to process call results asynchronously using BullMQ.
+- Updated AppModule to include QueueModule and new service/controller.
+- Enhanced existing services and entities to support the new feature.
+- Added API endpoints for listing, creating, updating, and deleting call results.
+- Integrated new models and validation schemas for robust data handling.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eec07d8</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#AA8DD8" d="M7.415 4c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1zM3.232 5.72c1-1 .25-4-1.438-4s-1.562 2-.562 2 1 2 1 3 1-1 1-1z"/>
+                                                <path fill="#744EAA" d="M29.607 32.856c.189.808 1.227 2.28 2.032 2.091.806-.19 1.077-1.971.888-2.777-.189-.808-.998-1.307-1.804-1.117-.805.19-1.306.997-1.116 1.803zm-5.434.649c.003.83.681 2.498 1.509 2.495.828-.004 1.494-1.677 1.491-2.506-.003-.829-.677-1.497-1.505-1.495-.828.004-1.498.677-1.495 1.506zm-5.271-2.446c-.326.764-.365 2.563.396 2.89.763.324 2.037-.947 2.363-1.71.325-.762-.028-1.643-.789-1.97-.762-.325-1.643.027-1.97.79zm-5.031-11.04c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.965-1.33-1.778-1.159zm-2.037-5c-.812.172-2.308 1.173-2.139 1.983.173.81 1.945 1.124 2.757.953.811-.171 1.329-.967 1.16-1.777-.172-.81-.966-1.33-1.778-1.159z"/>
+                                                <path fill="#9266CC" d="M27.244 34c2.831 0 4.926-.877 5.266-1.027 2.271-1.01 3.293-3.669 2.284-5.939-.999-2.25-3.616-3.275-5.872-2.314-.133.05-1.793.649-3.343-.072-1.851-.861-2.995-3.309-3.628-5.209-.144-.43-.385-1.274-.686-2.316-1.866-6.471-2.832-8.285-3.983-9.82C13.571 2.352 7.69 2.007 4.799 2.587c-2.437.487-4.018 2.858-3.53 5.295.488 2.438 2.86 4.02 5.296 3.53.162-.026 2.204-.306 3.424 1.169.643 1.287 2.08 5.128 2.63 7.034.346 1.199.629 2.171.794 2.667 1.773 5.317 4.666 8.893 8.603 10.629C23.868 33.729 25.67 34 27.244 34z"/>
+                                                <circle fill="#FFF" cx="6.682" cy="5" r="1"/>
+                                                <path d="M30.923 32.964c-.089 0-.18-.012-.269-.036-.532-.148-.844-.699-.696-1.231.757-2.722-.77-4.542-.785-4.56-.359-.419-.312-1.051.107-1.41.418-.359 1.051-.312 1.41.107.092.107 2.234 2.66 1.195 6.397-.122.443-.525.733-.962.733zm-7.199-.563c-.245 0-.49-.089-.684-.27-.403-.378-.424-1.011-.047-1.414 1.485-1.587 1.453-4.193 1.452-4.22-.016-.552.419-1.012.972-1.028.542-.005 1.013.419 1.028.972.004.139.073 3.437-1.991 5.644-.197.21-.464.316-.73.316zm-8.542-8.696c-.48 0-.904-.347-.985-.837-.09-.544.278-1.06.823-1.149 3.074-.51 4.774-2.377 4.791-2.396.365-.41.998-.449 1.409-.084.412.365.453.993.091 1.406-.087.099-2.156 2.415-5.964 3.046-.056.01-.111.014-.165.014zm2.921 4.857c-.425 0-.819-.272-.954-.698-.166-.526.126-1.089.652-1.255 2.693-.853 3.88-2.83 3.892-2.85.28-.477.892-.637 1.368-.357.477.279.636.893.357 1.368-.063.108-1.595 2.663-5.013 3.744-.101.033-.203.048-.302.048zm-4.619-10.67c-.496 0-.927-.369-.991-.875-.069-.548.319-1.048.867-1.118 2.689-.34 4.657-1.971 4.676-1.988.422-.354 1.053-.303 1.408.119.356.421.305 1.05-.115 1.407-.097.083-2.42 2.029-5.718 2.446-.043.006-.085.009-.127.009zm-1.821-4.767c-.425 0-.819-.273-.954-.701-.165-.527.127-1.088.654-1.254 3.13-.983 4.253-2.692 4.299-2.764.295-.462.911-.605 1.375-.312.465.292.611.899.324 1.366-.06.097-1.506 2.396-5.399 3.619-.099.031-.2.046-.299.046z" fill="#744EAA"/>
+                                            </svg>
+                                            fix(promptinput): ensure correct content update in read-only mode
+
+- add readOnly dependency in useEffect
+- improve condition check for editor content update
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4df15f</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#3E721D" d="M30.001 29c-.348 0-.685-.181-.869-.504l-4.235-6.976c-.274-.479-.167-1.079.312-1.354l4.958-3c.156-.089.496-.166.664-.166.348 0 .672.198.856.521l3.107 5.122.164 2.232c.274.479-.958 1.184-1.438 1.458l-3.025 2.535c-.155.09-.326.132-.494.132z"/>
+                                                <path fill="#77B255" d="M23 32c-.553 0-1-.447-1-1v-6c0-.553.447-1 1-1h10c1.85 0 1.55-1.781 1.55-1.781s.327.562.375.651c.327.614.544 1.552.034 2.505l-3.089 6.122c-.145.289-.491.503-.87.503h-8z"/>
+                                                <path fill="#77B255" d="M22 35c-.26 0-.516-.102-.707-.293l-6-6c-.391-.391-.391-1.023 0-1.414l6-6c.191-.191.447-.293.707-.293.129 0 .259.024.383.076.374.154.617.52.617.924v12c0 .404-.243.77-.617.924-.124.052-.254.076-.383.076z"/>
+                                                <path fill="#3E721D" d="M20.593 3.299c.158.31.15.692-.054 1.004l-4.293 6.94c-.303.463-.886.639-1.348.336L9.974 8.525c-.15-.099-.374-.367-.45-.516-.158-.31-.129-.688.075-1l3.152-5.094L14.665.756c.303-.463 1.49.315 1.953.619l3.631 1.544c.152.099.268.232.344.38z"/>
+                                                <path fill="#77B255" d="M26.444 8.175c.251.493.057 1.094-.437 1.346l-5.347 2.724c-.492.25-1.094.055-1.344-.437l-4.542-8.91c-.839-1.649-2.29-.573-2.29-.573s.352-.546.41-.63c.399-.57 1.135-1.188 2.216-1.167L21.969.5c.324 0 .671.209.844.547l3.631 7.128z"/>
+                                                <path fill="#77B255" d="M29.571 7.705c.118.231.143.505.06.762l-2.621 8.071c-.17.525-.734.812-1.26.642l-8.07-2.623c-.258-.083-.464-.265-.583-.496-.059-.114-.096-.242-.107-.376-.032-.404.184-.786.544-.969l10.692-5.448c.36-.184.795-.134 1.103.13.103.086.184.192.242.307z"/>
+                                                <path fill="#3E721D" d="M3.375 24.542c.181-.297.51-.49.882-.479l8.161.005c.553.017 1.009.42.995.972l-.014 5.795c-.005.18-.116.512-.203.654-.181.297-.519.472-.891.461l-5.99-.008-1.993-1.019c-.551-.017-.513-1.435-.499-1.986l-.593-3.904c.004-.179.058-.348.145-.491z"/>
+                                                <path fill="#77B255" d="M4.451 17.002c.287-.472.902-.622 1.374-.335l5.126 3.119c.473.287.622.901.335 1.374l-5.197 8.543c-.96 1.58.717 2.25.717 2.25s-.65-.014-.751-.02c-.696-.038-1.609-.341-2.159-1.271L.27 24.842c-.171-.275-.174-.682.023-1.006l4.158-6.834z"/>
+                                                <path fill="#77B255" d="M2.407 14.589c.136-.224.355-.388.618-.454l8.245-2.006c.537-.132 1.077.197 1.208.734l2.007 8.244c.064.264.017.534-.118.757-.066.109-.155.208-.264.288-.326.238-.764.256-1.11.046l-10.25-6.235c-.346-.211-.531-.609-.469-1.008.02-.134.066-.256.133-.366z"/>
+                                            </svg>
+                                            refactor(layout): rearrange component structure
+
+- move Suspense inside RootProvider for better component encapsulation
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21a894b</div>
+                                        <div class="message">
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <path fill="#F2760F" d="M32.043 36L32 35c0-4-2.957-7-7.957-7h-12C7.043 28 4 31 4 35l.043 1h28z"/>
+                                                <path fill="#FFF75F" d="M9 28.298V36h3v-8c-1.103 0-2.102.103-3 .298zM24 28v8h3v-7.702c-.898-.195-1.897-.298-3-.298z"/>
+                                                <path fill="#292F33" d="M13 27h10v4H13z"/>
+                                                <path fill="#292F33" d="M14 27h8s-1.018 7-4 7-4-7-4-7"/>
+                                                <path fill="#FFDC5D" d="M13.64 30.038c1.745 1.268 2.849 1.963 4.36 1.963s2.615-.696 4.359-1.963v-5.749h-8.72v5.749z"/>
+                                                <path fill="#F9CA55" d="M13.632 25.973c1.216 1.374 2.724 1.746 4.364 1.746 1.639 0 3.146-.373 4.363-1.746v-3.491h-8.728v3.491z"/>
+                                                <path fill="#FFAC33" d="M21.513 4.15c-1.881-.608-6.306-.443-7.412.996-2.876.055-6.25 2.654-6.693 6.084-.438 3.394.538 4.97.885 7.523.393 2.892 2.019 3.817 3.319 4.204 1.87 2.47 3.858 2.365 7.195 2.365 6.518 0 9.622-4.361 9.896-11.768.167-4.481-2.462-7.874-7.19-9.404z"/>
+                                                <path fill="#FFDC5D" d="M25.24 13.87c-.631-.873-1.438-1.576-3.208-1.825.664.304 1.3 1.355 1.383 1.936.083.581.166 1.051-.359.47-2.105-2.327-4.397-1.411-6.669-2.832-1.587-.993-2.07-2.091-2.07-2.091s-.194 1.466-2.6 2.959c-.697.433-1.53 1.397-1.991 2.821-.332 1.023-.229 1.936-.229 3.496 0 4.553 3.752 8.38 8.38 8.38s8.38-3.861 8.38-8.38c-.001-2.833-.297-3.939-1.017-4.934z"/>
+                                                <path fill="#C1694F" d="M18.807 21.131h-1.862c-.257 0-.466-.208-.466-.466s.208-.466.466-.466h1.862c.257 0 .466.208.466.466s-.208.466-.466.466zM18 24.467c-2.754 0-3.6-.705-3.74-.848-.257-.256-.257-.671 0-.927.248-.248.644-.255.902-.023.051.037.721.487 2.838.487 2.201 0 2.836-.485 2.842-.49.256-.255.658-.243.914.015.256.256.242.683-.014.938-.142.143-.988.848-3.742.848"/>
+                                                <path fill="#662113" d="M14.152 17.872c-.514 0-.931-.417-.931-.931v-.931c0-.514.417-.931.931-.931s.931.417.931.931v.931c0 .514-.417.931-.931.931zm7.449 0c-.514 0-.931-.417-.931-.931v-.931c0-.514.417-.931.931-.931s.931.417.931.931v.931c0 .514-.417.931-.931.931z"/>
+                                                <path fill="#292F33" d="M19 34.938l-1 1.061-1-1v-3h2z"/>
+                                                <path fill="#55ACEE" d="M11 28c0 1 1 3 3 5 1.582 1.581 4 3 4 3 0-3.063-1-4-2-5s-3-2-3-4c0-1-2 1-2 1m14 0c0 1-1 3-3 5-1.58 1.581-4 3-4 3 0-3.063 1-4 2-5s3-2 3-4c0-1 2 1 2 1"/>
+                                                <path fill="#FFF75F" d="M30 11c-3-2-1.008-4.169-3-7-1.873-2.663-5-4-9.002-4C13 0 10.874 1.337 9 4c-1.992 2.831 0 5-3 7-1.861 1.24 6 2.313 12 2.313S31.861 12.24 30 11"/>
+                                                <path fill="#FFAC33" d="M16 11.5V.088c-.35.032-.683.074-1 .124v10.281c-2.09-.05-5.124-.396-7.653-.853-.174.297-.41.59-.73.877 2.91.566 6.596.983 8.883.983h.5zm12.855-1.553c-2.853.304-5.839.517-7.855.549V.292c-.323-.066-.66-.112-1-.155V11.5h.5c2.018 0 5.796-.261 9.289-.657-.402-.295-.708-.593-.934-.896z"/>
+                                            </svg>
+                                            ci(workflow): comment out nx-cloud task distribution in CI
+
+- disable task distribution command for the current CI run
+                                        </div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a0ea73e</div>
+                                        <div class="message">chore: update nx.json and CI workflow for improved configuration
+
+- Added shared global path for CI workflow in nx.json.
+- Reformatted plugin options in nx.json for better readability.
+- Updated pre-version command in nx.json to use 'yarn' instead of 'pnpm'.
+- Enhanced CI workflow by adding a command to enable Nx Cloud task distribution.
+- Changed caching strategy in CI workflow from 'npm' to 'yarn' for consistency.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9217ab1</div>
+                                        <div class="message">feat(aic): enhance AgentSettingsInput with new input components and state management
+
+- Added new voice, language, background track, model, and analysis field type options to AgentSettingsInput.
+- Refactored TransferListInput and AnalysisSchemaInput components to manage state locally and handle updates more efficiently.
+- Updated the rendering logic to improve user experience when adding and modifying transfer numbers and analysis fields.
+- Enhanced form handling by passing values and change handlers directly to the input components, improving data flow and state management.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c3b6ef3</div>
+                                        <div class="message">feat(aic): add analysis schema input to AgentSettingsInput and update validation schema
+
+- Introduced AnalysisSchemaInput component for defining fields to be extracted from conversations.
+- Added support for various field types including string, email, boolean, and date formats.
+- Updated agent settings to include an analysis_schema field with initial empty state.
+- Enhanced validation schemas to accommodate the new analysis schema structure.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e5954f3</div>
+                                        <div class="message">refactor(aic): update EventOnUserPage to use dynamic callId state
+
+- Removed hardcoded callId and updated state initialization to allow for dynamic assignment.
+- Improved flexibility in handling call events on the EventOnUserPage.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f684490</div>
+                                        <div class="message">feat(aic): refactor BlandAiController and enhance event handling
+
+- Changed the endpoint in BlandAiController from SSE to POST for call events.
+- Updated index to include BlandAiController for better routing.
+- Refactored CallService and related services to utilize a new error handling utility.
+- Introduced CallEventStreamResponse interface for structured event data.
+- Enhanced playground API to support new event response structure.
+- Removed obsolete useCallEvent hook and updated EventOnUserPage to use React Query for event handling.
+- Improved UI components for better user experience in event management.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b01531a</div>
+                                        <div class="message">feat(aic): enhance CallService and AgentSettingsInput with transfer list and max duration
+
+- Added 'record' parameter to CallService for event handling.
+- Introduced TransferListInput component in AgentSettingsInput for managing transfer destinations.
+- Updated agent settings to include 'max_duration' and 'transfer_list' fields.
+- Enhanced validation schema to support new fields in agent settings.
+- Improved EventOnUserPage to omit metadata from preview data for cleaner output.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9057007</div>
+                                        <div class="message">fix(aic): update BusinessUserEntity to allow null values for address fields
+
+- Modified companyAddress, studioAddress, and homeAddress properties to accept null values.
+- Updated BusinessUserService to ensure workspaceId is explicitly passed in the query for better clarity and consistency.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8baf101</div>
+                                        <div class="message">refactor(aic): update validation schemas to support nullish values
+
+- Modified Address interface to allow null values for all fields.
+- Updated BusinessUserModel schemas to replace optional fields with nullish types for better handling of undefined values.
+- Enhanced validation logic across various address-related fields to improve data integrity and flexibility.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#46c90a6</div>
+                                        <div class="message">feat(aic): add BlandAiController and enhance event handling in playground
+
+- Introduced BlandAiController for handling server-sent events related to calls.
+- Updated AgentService and BusinessUserService to improve type handling with 'as never'.
+- Enhanced playground API to support new event response structure.
+- Improved EventOnUserPage to display call events and handle submission results.
+- Added useCallEvent hook for managing SSE connections.
+- Updated validation schemas in models to support nullish values for optional fields.
+- Refactored various components to accommodate new functionalities and improve user experience.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f38d5b4</div>
+                                        <div class="message">feat(aic): implement CallController and CallService for event handling
+
+- Added CallController with endpoints for executing and previewing events on users.
+- Implemented CallService to handle business logic for event execution and preview.
+- Introduced new API endpoints for event handling in the playground.
+- Updated index files to include new CallController and CallService.
+- Enhanced UI components to support new event functionalities, including a dedicated playground page for user interaction.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#42960a5</div>
+                                        <div class="message">feat(aic): refactor agent and template management
+
+- Removed Template-related entities, services, and controllers to streamline the agent functionality.
+- Updated AgentEntity to include new prompt fields: taskPrompt, analysisPrompt, and summaryPrompt.
+- Adjusted AgentService to utilize new prompt fields instead of templates.
+- Introduced new environment variables for API configuration.
+- Added new registry and authentication for Tiptap packages in .npmrc.
+- Updated package dependencies, including Tiptap and Lexical packages.
+- Enhanced UI components to reflect changes in agent management and removed template references.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a16be88</div>
+                                        <div class="message">chore: Normalize all line endings to LF</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f0a18f7</div>
+                                        <div class="message">feat: impl call service and call agent settings input</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#2 impl base call</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">Sansoni-Management-Dev-Team/ai-call-center</span></div>
+                                    <div>1298 files changed <span class="code">++54851 --31194</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
@@ -407,59 +653,6 @@ This commit enhances the configuration of action calls, contributing to better d
 - Updated the web component to include an auto-refresh feature for action calls, improving user experience by allowing real-time data updates.
 
 This commit improves method naming conventions and enhances the functionality of data retrieval and user interaction in the application.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Sansoni-Management-Dev-Team/ai-call-center</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/start-call-action</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6e243e5</div>
-                                        <div class="message">feat(api): update agent settings handling and enhance error management
-
-- Replaced references to BlandAiAgentSettings with UiBlandAiAgentSettings in AgentEntity and CallService, ensuring consistency in agent settings usage.
-- Improved error handling in EventActionExecuteQueue by adding checks for agentId and enhanced logging for better traceability during action execution.
-- Introduced a new method in CallService to parse agent settings, streamlining the process of handling agent configurations.
-- Enhanced BlandServiceError to include status and errors properties for more informative error reporting.
-- Updated utility functions to provide better error context when handling Axios errors.
-
-This commit enhances the handling of agent settings and improves error management across the API, contributing to better maintainability and observability.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Sansoni-Management-Dev-Team/ai-call-center</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feature/start-call-action</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#996b0f6</div>
-                                        <div class="message">refactor(api): optimize event fetching in BusinessEventService
-
-- Replaced the existing find method with a query builder in BusinessEventService to enhance performance and flexibility when retrieving business events.
-- The new implementation orders events by the updatedAt timestamp and maintains pagination with take and skip parameters.
-
-This commit improves the efficiency of event retrieval, contributing to better performance in event processing.</div>
                                     </div>
                                 </div>
                             </section>
@@ -916,7 +1109,7 @@ This commit improves the efficiency of event retrieval, contributing to better p
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 767k out of 230m repositories</span>
+                                    <span class="gh">ranked 767k out of 229m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 41 stars</div>
                             </div>
@@ -1007,7 +1200,7 @@ This commit improves the efficiency of event retrieval, contributing to better p
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jan 2025, 19:11:21 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jan 2025, 20:25:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
