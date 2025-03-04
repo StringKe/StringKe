@@ -882,7 +882,7 @@ When I checked, I found that there seems to be an intentional filtering out of n
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 779k out of 231m repositories</span>
+                                    <span class="gh">ranked 779k out of 222m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 41 stars</div>
                             </div>
@@ -973,7 +973,7 @@ When I checked, I found that there seems to be an intentional filtering out of n
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Mar 2025, 02:18:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Mar 2025, 03:11:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
