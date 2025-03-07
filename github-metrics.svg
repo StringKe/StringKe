@@ -887,7 +887,7 @@ It's all about
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 450k out of 158m users</span>
+                                    <span class="gh">ranked 451k out of 158m users</span>
                                 </div>
                                 <div class="text">Followed by 35 users</div>
                             </div>
@@ -956,7 +956,7 @@ It's all about
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 780k out of 238m repositories</span>
+                                    <span class="gh">ranked 780k out of 242m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 41 stars</div>
                             </div>
@@ -1047,7 +1047,7 @@ It's all about
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Mar 2025, 21:21:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Mar 2025, 22:13:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
