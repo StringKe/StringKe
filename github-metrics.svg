@@ -107,7 +107,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            655 issue comments
+                            656 issue comments
                         </div>
                     </section>
                     <section>
@@ -363,8 +363,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1ba2dbc</div>
-                                        <div class="message">release-379-env-3</div>
+                                        <div class="sha">#fc32bfe</div>
+                                        <div class="message">release-397-env-2</div>
                                     </div>
                                 </div>
                             </section>
@@ -377,14 +377,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-backend-service-system</span>
+                                        <span class="repo">super-game-white/devtron-backend-service-user</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#048cb8f</div>
-                                        <div class="message">release-378-env-3</div>
+                                        <div class="sha">#3cdbad2</div>
+                                        <div class="message">release-396-env-2</div>
                                     </div>
                                 </div>
                             </section>
@@ -403,8 +403,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6eb2492</div>
-                                        <div class="message">release-377-env-3</div>
+                                        <div class="sha">#14b9d18</div>
+                                        <div class="message">release-395-env-2</div>
                                     </div>
                                 </div>
                             </section>
@@ -417,14 +417,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-backend-service-account</span>
+                                        <span class="repo">super-game-white/devtron-backend-service-system</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9e63eb1</div>
-                                        <div class="message">release-376-env-3</div>
+                                        <div class="sha">#ca3dc84</div>
+                                        <div class="message">release-394-env-2</div>
                                     </div>
                                 </div>
                             </section>
@@ -443,8 +443,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b7a90b9</div>
-                                        <div class="message">release-375-env-3</div>
+                                        <div class="sha">#2997fe4</div>
+                                        <div class="message">release-393-env-2</div>
                                     </div>
                                 </div>
                             </section>
@@ -472,7 +472,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2025, 21:13:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 May 2025, 22:03:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
