@@ -357,34 +357,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-backend-service-system</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#160213c</div>
-                                        <div class="message">release-346-env-2</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
                                         <span class="repo">super-game-white/devtron-backend-service-user</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e2afaf7</div>
-                                        <div class="message">release-345-env-2</div>
+                                        <div class="sha">#3495322</div>
+                                        <div class="message">release-352-env-2</div>
                                     </div>
                                 </div>
                             </section>
@@ -397,14 +377,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-backend-service-account</span>
+                                        <span class="repo">super-game-white/devtron-backend-service-system</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6c2af88</div>
-                                        <div class="message">release-344-env-2</div>
+                                        <div class="sha">#54cde8d</div>
+                                        <div class="message">release-351-env-2</div>
                                     </div>
                                 </div>
                             </section>
@@ -423,8 +403,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2e3d7ad</div>
-                                        <div class="message">release-343-env-2</div>
+                                        <div class="sha">#ab608ca</div>
+                                        <div class="message">release-350-env-2</div>
                                     </div>
                                 </div>
                             </section>
@@ -437,14 +417,34 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-backend-gateway</span>
+                                        <span class="repo">super-game-white/devtron-backend-service-pay</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#522d7ac</div>
-                                        <div class="message">release-342-env-2</div>
+                                        <div class="sha">#d091fac</div>
+                                        <div class="message">release-349-env-2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">super-game-white/devtron-backend-service-account</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#83af89b</div>
+                                        <div class="message">release-348-env-2</div>
                                     </div>
                                 </div>
                             </section>
@@ -472,7 +472,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 May 2025, 16:05:01 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 May 2025, 17:04:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
