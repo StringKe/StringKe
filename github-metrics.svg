@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2281 Commits
+                            2286 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -265,8 +265,8 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 30.5 characters per line of code written</li>
-                        <li>Mostly pushes code around 15:00</li>
+                        <li>Has approximately 30.4 characters per line of code written</li>
+                        <li>Mostly pushes code around 18:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
                 </div>
@@ -363,13 +363,12 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bc0fc06</div>
-                                        <div class="message">feat(api): 添加数据库迁移功能和用户表结构
+                                        <div class="sha">#559d02f</div>
+                                        <div class="message">feat(rules): 删除综合开发指南并新增开发标准规则文档
 
-- 在 package.json 中新增多个数据库迁移相关的脚本
-- 更新环境配置以支持迁移功能
-- 新增迁移文件，创建用户表和用户关联登录方式表，包含详细的字段注释
-- 配置迁移列表以便于管理和执行数据库迁移</div>
+- 删除了原有的综合开发指南文件
+- 新增比特币交易平台开发标准规则文档，涵盖核心开发原则、后端和前端开发规范、代码质量规范等内容
+- 规范化了项目的开发流程和技术栈要求，确保代码的一致性和可维护性</div>
                                     </div>
                                 </div>
                             </section>
@@ -388,15 +387,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#65a8af2</div>
-                                        <div class="message">feat(api): 更新依赖和重构代码以提升可维护性
+                                        <div class="sha">#9ca4717</div>
+                                        <div class="message">feat(api): 更新 AppModule 和 Auth0Service，增强全局模块支持和用户认证流程
 
-- 在 pnpm-lock.yaml 中添加多个新依赖，包括 pino-pretty 和其他相关库
-- 更新 API 模块的 package.json，添加 pino-pretty 作为依赖
-- 重构异常处理逻辑，将 AppException 替换为 ErrorCodes，提升代码一致性
-- 移除不再使用的用户初始化迁移文件，简化项目结构
-- 新增 UserService 以处理用户相关逻辑，优化用户认证流程
-- 调整多个模块的导入和服务，提升代码可读性与维护性</div>
+- 在 AppModule 中添加 global 属性，提升模块的可用性
+- 在 Auth0Service 中实现 OIDC 客户端的初始化和授权 URL 生成逻辑
+- 增强日志记录，跟踪 OIDC 客户端的状态和用户信息获取过程
+- 优化回调处理逻辑，确保状态验证和用户信息的准确获取</div>
                                     </div>
                                 </div>
                             </section>
@@ -415,17 +412,15 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a7a31ff</div>
-                                        <div class="message">feat(api): 启用 Webpack HMR 进行热重载
+                                        <div class="sha">#fb2b193</div>
+                                        <div class="message">feat(api): 添加后台管理模块和前台用户服务
 
-- 调整 API 服务的开发环境配置
-- 将回调地址从端口 52004 更新为 52002，确保与前端应用配置匹配
-- 移除 `dev-watcher.js`，并引入 Webpack HMR（热模块替换）以实现更快的代码更新和调试
-- 更新 `package.json` 中的开发脚本，使用 webpack 的 watch 模式
-- 将 `ErrorCodes` 从 `AppException.codes` 移动到独立的导出，避免循环依赖问题
-- 优化环境变量加载逻辑，仅在非生产环境开启详细日志
-- 调整 tsconfig 配置以支持 webpack 构建
-- 增加开发环境下的调试能力和热重载功能，提升开发效率</div>
+- 新增 AdminModule，包含管理员相关的业务逻辑和 GraphQL 解析器
+- 实现 AdminGuard 以保护管理员路由
+- 新增 WebModule，处理前台用户相关的业务逻辑和 GraphQL 解析器
+- 引入 Auth0Service 以支持用户认证流程
+- 重构多个模块的导入，提升代码结构和可维护性
+- 移除不再使用的模块，简化项目结构</div>
                                     </div>
                                 </div>
                             </section>
@@ -444,8 +439,12 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1a12aac</div>
-                                        <div class="message">feat: 更新多个模块的 package.json 文件，统一格式与依赖项，添加 CORS 支持以优化 API 的跨域请求处理，提升项目的可维护性与开发体验</div>
+                                        <div class="sha">#c73fe69</div>
+                                        <div class="message">feat(api): 增强 Auth0 服务的日志记录和用户认证流程
+
+- 在 Auth0Service 中添加详细的日志记录，跟踪 OIDC 客户端初始化、授权 URL 生成和认证回调处理的各个步骤
+- 在 UserService 中增强用户认证流程的日志记录，记录用户信息的获取、更新和绑定关系的处理
+- 提升代码可读性和调试能力，便于后续维护和问题排查</div>
                                     </div>
                                 </div>
                             </section>
@@ -464,8 +463,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1102c85</div>
-                                        <div class="message">feat: 更新多个模块的依赖版本，提升代码一致性与可维护性；添加 GraphQL 依赖至 admin、api 和 app 模块，优化项目结构与开发体验</div>
+                                        <div class="sha">#e922ed6</div>
+                                        <div class="message">feat(api): 移除 Webpack HMR 支持并优化入口配置
+
+- 在 webpack.config.js 中移除热模块替换插件，简化开发配置
+- 更新入口文件配置，确保在开发模式下使用主入口文件
+- 移除 main.ts 中的 HMR 相关代码，提升代码整洁性
+- 在 shared.module.ts 中引入 Repositories，增强模块的可扩展性</div>
                                     </div>
                                 </div>
                             </section>
@@ -493,7 +497,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jun 2025, 18:03:43 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jun 2025, 19:03:36 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
