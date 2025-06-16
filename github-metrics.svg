@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1075" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1065" class="large">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2292 Commits
+                            2294 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -357,17 +357,79 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">super-game-white/devtron-app-backend-service-user</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#8472ff9</div>
+                                        <div class="message">release-829-env-2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">super-game-white/devtron-app-backend-service-report</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d753c2d</div>
+                                        <div class="message">release-828-env-2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">ttmm-jys/workspace</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#48d01d1</div>
-                                        <div class="message">feat(env): 更新环境配置，修改 GraphQL 端点为局域网地址
+                                        <div class="sha">#3410e90</div>
+                                        <div class="message">feat(auth): 增强用户认证流程和权限管理
 
-- 将 .env、.env.development 和 .env.production 文件中的 GraphQL HTTP 和 WS 端点从本地地址更新为局域网地址 192.168.70.169
-- 在 __root.tsx 文件中添加 useEffect 钩子，打印当前的 GraphQL 端点，便于调试和验证</div>
+- 更新 useAuth 钩子，添加认证成功事件监听，确保用户状态及时更新
+- 实现 Apollo 认证状态同步，优化用户信息获取逻辑
+- 移除不再使用的权限管理组件和相关代码，简化代码结构
+- 更新 .env.production 文件中的 GraphQL 端点为新的局域网地址 192.168.73.237</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">super-game-white/devtron-app-backend-service-system</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9bb9879</div>
+                                        <div class="message">release-827-env-3</div>
                                     </div>
                                 </div>
                             </section>
@@ -386,80 +448,13 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#220e99a</div>
-                                        <div class="message">feat(capacitor): 添加 @capacitor/app 和 @capacitor/browser 依赖，更新配置和权限管理
+                                        <div class="sha">#f90a15b</div>
+                                        <div class="message">feat(config): 更新环境配置和网络安全设置
 
-- 在 pnpm-lock.yaml 中添加 @capacitor/app 和 @capacitor/browser 依赖，版本均为 7.0.1
-- 更新 capacitor.config.ts，配置浏览器和应用插件
-- 在 AndroidManifest.xml 中添加深度链接和权限声明
-- 新增权限管理功能，支持权限状态检查和请求
-- 实现应用初始化逻辑，确保应用在启动时准备就绪
-- 优化用户认证流程，支持深度链接回调处理</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ttmm-jys/workspace</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1934e6e</div>
-                                        <div class="message">chore: 更新依赖项版本</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ttmm-jys/workspace</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ae0cdf7</div>
-                                        <div class="message">feat(capacitor): 更新 Capacitor 相关依赖至 7.3.0，并修改配置文件路径
-
-- 在 package.json 中添加 @capacitor/android、@capacitor/core 和 @capacitor/ios 依赖，版本均为 7.3.0
-- 修改 capacitor.config.ts 中的 webDir 路径，从 'build/client' 更新为 'dist'
-- 更新 pnpm-lock.yaml 文件以反映新的依赖关系
-- 规范化 iOS 资源文件的 JSON 格式，提升可读性</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ttmm-jys/workspace</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#44879f4</div>
-                                        <div class="message">feat(env): 更新环境配置，新增 GraphQL 端点支持</div>
+- 修改 .env 和 .env.development 文件中的 GraphQL 端点为新的局域网地址 192.168.73.237
+- 在 capacitor.config.ts 中添加允许导航到本地开发服务器的配置，并开启明文流量支持
+- 在 AndroidManifest.xml 中添加网络安全配置，允许明文流量
+- 新增 network_security_config.xml 文件，配置本地开发环境的网络安全策略</div>
                                     </div>
                                 </div>
                             </section>
@@ -487,7 +482,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jun 2025, 14:05:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jun 2025, 15:05:02 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
