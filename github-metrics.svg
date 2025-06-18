@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1059" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1062" class="large">
     <defs>
         <style/>
     </defs>
@@ -265,9 +265,9 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 30.8 characters per line of code written</li>
-                        <li>Mostly pushes code around 17:00</li>
-                        <li>Mostly active on Friday</li>
+                        <li>Has approximately 30.9 characters per line of code written</li>
+                        <li>Mostly pushes code around 16:00</li>
+                        <li>Mostly active on Saturday</li>
                     </ul>
                 </div>
             </section>
@@ -357,14 +357,20 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-app-backend-service-user</span>
+                                        <span class="repo">ttmm-jys/workspace</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e76e795</div>
-                                        <div class="message">release-877-env-4</div>
+                                        <div class="sha">#66ac3a5</div>
+                                        <div class="message">feat(api): 更新依赖和配置，新增 Redis CQRS 支持
+
+- 在 app.module.ts 中配置 Redis CQRS 和缓存管理
+- 新增 OrderConsumer 处理订单队列
+- 实现配置变更事件处理器 ConfigChangedHandler，支持本地和跨实例事件广播
+- 更新 ConfigService，支持通过缓存管理和事件广播更新配置
+- 移除不再使用的 EventService，简化服务结构</div>
                                     </div>
                                 </div>
                             </section>
@@ -377,14 +383,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-app-backend-service-system</span>
+                                        <span class="repo">super-game-white/devtron-app-frontend-admin</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1f520d0</div>
-                                        <div class="message">release-876-env-4</div>
+                                        <div class="sha">#12cf5aa</div>
+                                        <div class="message">release-882-env-4</div>
                                     </div>
                                 </div>
                             </section>
@@ -397,34 +403,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-app-backend-service-user</span>
+                                        <span class="repo">super-game-white/devtron-app-frontend-admin</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#157ef68</div>
-                                        <div class="message">release-875-env-4</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-app-backend-service-user</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#64d6c6c</div>
-                                        <div class="message">release-874-env-2</div>
+                                        <div class="sha">#8030381</div>
+                                        <div class="message">release-881-env-2</div>
                                     </div>
                                 </div>
                             </section>
@@ -443,8 +429,28 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f433a09</div>
-                                        <div class="message">release-873-env-2</div>
+                                        <div class="sha">#a1199b0</div>
+                                        <div class="message">release-880-env-2</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">super-game-white/devtron-app-backend-service-report</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#feed150</div>
+                                        <div class="message">release-879-env-2</div>
                                     </div>
                                 </div>
                             </section>
@@ -472,7 +478,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jun 2025, 04:04:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jun 2025, 05:03:46 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
