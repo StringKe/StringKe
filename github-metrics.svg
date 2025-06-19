@@ -357,14 +357,34 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">super-game-white/devtron-app-backend-service-pay</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3ece79d</div>
+                                        <div class="message">release-900-env-4</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">super-game-white/devtron-app-backend-service-user</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#71ba633</div>
-                                        <div class="message">release-897-env-4</div>
+                                        <div class="sha">#524b044</div>
+                                        <div class="message">release-899-env-2</div>
                                     </div>
                                 </div>
                             </section>
@@ -383,8 +403,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#938e480</div>
-                                        <div class="message">release-896-env-4</div>
+                                        <div class="sha">#d8973c9</div>
+                                        <div class="message">release-898-env-2</div>
                                     </div>
                                 </div>
                             </section>
@@ -403,16 +423,43 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#16b12ac</div>
+                                        <div class="sha">#14facd8</div>
                                         <div class="message">
-                                            fix(integrations): 修复 CoinGecko SDK 类型错误和命名空间引用
+                                            feat(currency): 实现完整的货币自动导入和价格更新系统
 
-- 修复 coingecko.types.ts 中的类型别名错误，使用正确的 SDK 类型名称
-- 将所有 any 类型替换为正确的 Coingecko 命名空间类型
-- 修复 API 方法调用参数和返回类型错误
-- 优化错误处理，确保类型安全的 error.message 访问
-- 统一使用命名空间类型模式而非直接导入类型
-- 新增 CLI 命令和 GraphQL resolver 用于 CoinGecko 数据
+- 新增 CurrencyService 实现货币业务逻辑
+  • 定时任务每3分钟自动更新价格 (Cron: '0 */3 * * * *')
+  • 从 CoinGecko 自动导入货币列表
+  • 单个和批量货币价格更新功能
+
+- 实现 BullMQ 队列系统处理异步任务
+  • currency-price-update 队列处理价格更新
+  • currency-import 队列处理货币导入
+  • 配置重试策略和任务保留策略
+
+- 扩展 CurrencyRepository 查询方法
+  • findBySymbol, findActiveCurrencies, findByType
+  • findTradingEnabledCurrencies, findCurrenciesWithCoinGeckoId
+  • updatePriceInfo 用于价格数据更新
+
+- 新增完整的 CLI 货币管理命令
+  • 查看所有货币和活跃货币列表
+  • 手动触发货币导入和价格更新
+  • 单个货币详细信息查看
+
+- 修复所有 TypeScript 类型错误
+  • 移除所有 'as any' 使用
+  • 使用正确的 MikroORM EntityRepository 方法
+  • 修正 Cron 表达式和队列消费者类型安全
+
+- 更新 CLAUDE.md 添加强制类型安全规则
+  • 绝对禁止使用 'as any'
+  • 提供正确的类型安全替代方案
+  • 详细说明类型安全最佳实践
+
+- 新增货币相关错误码到 shared 包
+  • CURRENCY_NOT_FOUND, CURRENCY_IMPORT_FAILED 等
+  • 统一错误处理和异常管理
                                             <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
                                                 <ellipse fill="#F4900C" cx="33.5" cy="14.5" rx="2.5" ry="3.5"/>
                                                 <ellipse fill="#F4900C" cx="2.5" cy="14.5" rx="2.5" ry="3.5"/>
@@ -451,28 +498,8 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0545b09</div>
-                                        <div class="message">release-895-env-2</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-app-frontend-mobile</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dc67b78</div>
-                                        <div class="message">release-894-env-2</div>
+                                        <div class="sha">#71ba633</div>
+                                        <div class="message">release-897-env-4</div>
                                     </div>
                                 </div>
                             </section>
@@ -500,7 +527,7 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Jun 2025, 11:25:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Jun 2025, 12:09:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
