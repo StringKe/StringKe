@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1142" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1082" class="large">
     <defs>
         <style/>
     </defs>
@@ -266,7 +266,7 @@
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 32.3 characters per line of code written</li>
-                        <li>Mostly pushes code around 18:00</li>
+                        <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
                 </div>
@@ -357,14 +357,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-app-frontend-admin</span>
+                                        <span class="repo">super-game-white/devtron-app-backend-service-user</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#713204a</div>
-                                        <div class="message">release-925-env-4</div>
+                                        <div class="sha">#46036b4</div>
+                                        <div class="message">release-928-env-4</div>
                                     </div>
                                 </div>
                             </section>
@@ -376,15 +376,46 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-app-backend-service-pay</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">ttmm-jys/workspace</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2dbb779</div>
-                                        <div class="message">release-924-env-4</div>
+                                        <div class="sha">#5fccf2d</div>
+                                        <div class="message">feat(mcp): 添加 MCP 服务器配置文件以支持 vsc-mcp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c848f3</div>
+                                        <div class="message">
+                                            fix(api): 修复 CoinGecko API 类型安全和交易所数据获取
+
+- 添加 getExchanges() 方法获取包含 trust_score_rank 的完整交易所数据
+- 修复所有 CLI 命令的类型安全问题，移除 catch (error: any) 使用
+- 更新 currency.service.ts 使用正确的 API 端点和类型
+- 改进交易所列表 CLI 命令，显示更丰富的交易所信息
+- 确保所有代码符合项目的严格类型检查原则
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <ellipse fill="#F4900C" cx="33.5" cy="14.5" rx="2.5" ry="3.5"/>
+                                                <ellipse fill="#F4900C" cx="2.5" cy="14.5" rx="2.5" ry="3.5"/>
+                                                <path fill="#FFAC33" d="M34 19c0 .553-.447 1-1 1h-3c-.553 0-1-.447-1-1v-9c0-.552.447-1 1-1h3c.553 0 1 .448 1 1v9zM7 19c0 .553-.448 1-1 1H3c-.552 0-1-.447-1-1v-9c0-.552.448-1 1-1h3c.552 0 1 .448 1 1v9z"/>
+                                                <path fill="#FFCC4D" d="M28 5c0 2.761-4.478 4-10 4C12.477 9 8 7.761 8 5s4.477-5 10-5c5.522 0 10 2.239 10 5z"/>
+                                                <path fill="#F4900C" d="M25 4.083C25 5.694 21.865 7 18 7c-3.866 0-7-1.306-7-2.917 0-1.611 3.134-2.917 7-2.917 3.865 0 7 1.306 7 2.917z"/>
+                                                <path fill="#269" d="M30 5.5C30 6.881 28.881 7 27.5 7h-19C7.119 7 6 6.881 6 5.5S7.119 3 8.5 3h19C28.881 3 30 4.119 30 5.5z"/>
+                                                <path fill="#55ACEE" d="M30 6H6c-1.104 0-2 .896-2 2v26h28V8c0-1.104-.896-2-2-2z"/>
+                                                <path fill="#3B88C3" d="M35 33v-1c0-1.104-.896-2-2-2H22.071l-3.364 3.364c-.391.391-1.023.391-1.414 0L13.929 30H3c-1.104 0-2 .896-2 2v1c0 1.104-.104 2 1 2h32c1.104 0 1-.896 1-2z"/>
+                                                <circle fill="#FFF" cx="24.5" cy="14.5" r="4.5"/>
+                                                <circle fill="#DD2E44" cx="24.5" cy="14.5" r="2.721"/>
+                                                <circle fill="#FFF" cx="11.5" cy="14.5" r="4.5"/>
+                                                <path fill="#F5F8FA" d="M29 25.5c0 1.381-1.119 2.5-2.5 2.5h-17C8.119 28 7 26.881 7 25.5S8.119 23 9.5 23h17c1.381 0 2.5 1.119 2.5 2.5z"/>
+                                                <path fill="#CCD6DD" d="M17 23h2v5h-2zm-5 0h2v5h-2zm10 0h2v5h-2zM7 25.5c0 1.21.859 2.218 2 2.45v-4.9c-1.141.232-2 1.24-2 2.45zm20-2.45v4.899c1.141-.232 2-1.24 2-2.45s-.859-2.217-2-2.449z"/>
+                                                <circle fill="#DD2E44" cx="11.5" cy="14.5" r="2.721"/>
+                                            </svg>
+                                            Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
+                                        </div>
                                     </div>
                                 </div>
                             </section>
@@ -403,8 +434,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2dfefc9</div>
-                                        <div class="message">release-923-env-4</div>
+                                        <div class="sha">#d9bcd34</div>
+                                        <div class="message">release-927-env-4</div>
                                     </div>
                                 </div>
                             </section>
@@ -417,14 +448,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-app-backend-service-system</span>
+                                        <span class="repo">super-game-white/devtron-app-backend-service-pay</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#64a83dd</div>
-                                        <div class="message">release-922-env-4</div>
+                                        <div class="sha">#749ffaa</div>
+                                        <div class="message">release-926-env-4</div>
                                     </div>
                                 </div>
                             </section>
@@ -436,173 +467,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">ttmm-jys/workspace</span>
+                                        Pushed 1 commit in
+                                        <span class="repo">super-game-white/devtron-app-frontend-admin</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bd0db89</div>
-                                        <div class="message">
-                                            refactor(currency): 改进货币扫描策略，基于交易所数据导入
-
-- 移除旧的 importCurrenciesFromCoinGecko 方法和相关命令
-- 实现基于前 25 名交易所（按 trust_score_rank）的币种导入策略
-- 添加 Redis 缓存支持，缓存 CoinGecko 币种列表
-- 移除 limit 参数的 250 上限限制，支持导入任意数量的币种
-- 更新 CLAUDE.md 文档说明
-
-现在货币扫描会：
-1. 获取前 25 名最可信的交易所
-2. 从这些交易所的交易对中提取所有币种
-3. 只导入真正在主流交易所上交易的币种
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <ellipse fill="#F4900C" cx="33.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <ellipse fill="#F4900C" cx="2.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <path fill="#FFAC33" d="M34 19c0 .553-.447 1-1 1h-3c-.553 0-1-.447-1-1v-9c0-.552.447-1 1-1h3c.553 0 1 .448 1 1v9zM7 19c0 .553-.448 1-1 1H3c-.552 0-1-.447-1-1v-9c0-.552.448-1 1-1h3c.552 0 1 .448 1 1v9z"/>
-                                                <path fill="#FFCC4D" d="M28 5c0 2.761-4.478 4-10 4C12.477 9 8 7.761 8 5s4.477-5 10-5c5.522 0 10 2.239 10 5z"/>
-                                                <path fill="#F4900C" d="M25 4.083C25 5.694 21.865 7 18 7c-3.866 0-7-1.306-7-2.917 0-1.611 3.134-2.917 7-2.917 3.865 0 7 1.306 7 2.917z"/>
-                                                <path fill="#269" d="M30 5.5C30 6.881 28.881 7 27.5 7h-19C7.119 7 6 6.881 6 5.5S7.119 3 8.5 3h19C28.881 3 30 4.119 30 5.5z"/>
-                                                <path fill="#55ACEE" d="M30 6H6c-1.104 0-2 .896-2 2v26h28V8c0-1.104-.896-2-2-2z"/>
-                                                <path fill="#3B88C3" d="M35 33v-1c0-1.104-.896-2-2-2H22.071l-3.364 3.364c-.391.391-1.023.391-1.414 0L13.929 30H3c-1.104 0-2 .896-2 2v1c0 1.104-.104 2 1 2h32c1.104 0 1-.896 1-2z"/>
-                                                <circle fill="#FFF" cx="24.5" cy="14.5" r="4.5"/>
-                                                <circle fill="#DD2E44" cx="24.5" cy="14.5" r="2.721"/>
-                                                <circle fill="#FFF" cx="11.5" cy="14.5" r="4.5"/>
-                                                <path fill="#F5F8FA" d="M29 25.5c0 1.381-1.119 2.5-2.5 2.5h-17C8.119 28 7 26.881 7 25.5S8.119 23 9.5 23h17c1.381 0 2.5 1.119 2.5 2.5z"/>
-                                                <path fill="#CCD6DD" d="M17 23h2v5h-2zm-5 0h2v5h-2zm10 0h2v5h-2zM7 25.5c0 1.21.859 2.218 2 2.45v-4.9c-1.141.232-2 1.24-2 2.45zm20-2.45v4.899c1.141-.232 2-1.24 2-2.45s-.859-2.217-2-2.449z"/>
-                                                <circle fill="#DD2E44" cx="11.5" cy="14.5" r="2.721"/>
-                                            </svg>
-                                            Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3a913b</div>
-                                        <div class="message">
-                                            feat(currency): 实现法币自动导入和汇率更新
-
-- 使用 CoinGecko supported_vs_currencies API 获取支持的法币列表
-- 通过 USDT 价格计算法币对 USD 的汇率（1/USDT价格）
-- 扩展法币支持到 46 种主要货币
-- 更新批量价格更新逻辑，分别处理法币和虚拟币
-- 法币汇率通过 USDT 间接计算，确保准确性
-- 自动设置法币小数位数（如 JPY/KRW 为 0，BHD/KWD 为 3）
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <ellipse fill="#F4900C" cx="33.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <ellipse fill="#F4900C" cx="2.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <path fill="#FFAC33" d="M34 19c0 .553-.447 1-1 1h-3c-.553 0-1-.447-1-1v-9c0-.552.447-1 1-1h3c.553 0 1 .448 1 1v9zM7 19c0 .553-.448 1-1 1H3c-.552 0-1-.447-1-1v-9c0-.552.448-1 1-1h3c.552 0 1 .448 1 1v9z"/>
-                                                <path fill="#FFCC4D" d="M28 5c0 2.761-4.478 4-10 4C12.477 9 8 7.761 8 5s4.477-5 10-5c5.522 0 10 2.239 10 5z"/>
-                                                <path fill="#F4900C" d="M25 4.083C25 5.694 21.865 7 18 7c-3.866 0-7-1.306-7-2.917 0-1.611 3.134-2.917 7-2.917 3.865 0 7 1.306 7 2.917z"/>
-                                                <path fill="#269" d="M30 5.5C30 6.881 28.881 7 27.5 7h-19C7.119 7 6 6.881 6 5.5S7.119 3 8.5 3h19C28.881 3 30 4.119 30 5.5z"/>
-                                                <path fill="#55ACEE" d="M30 6H6c-1.104 0-2 .896-2 2v26h28V8c0-1.104-.896-2-2-2z"/>
-                                                <path fill="#3B88C3" d="M35 33v-1c0-1.104-.896-2-2-2H22.071l-3.364 3.364c-.391.391-1.023.391-1.414 0L13.929 30H3c-1.104 0-2 .896-2 2v1c0 1.104-.104 2 1 2h32c1.104 0 1-.896 1-2z"/>
-                                                <circle fill="#FFF" cx="24.5" cy="14.5" r="4.5"/>
-                                                <circle fill="#DD2E44" cx="24.5" cy="14.5" r="2.721"/>
-                                                <circle fill="#FFF" cx="11.5" cy="14.5" r="4.5"/>
-                                                <path fill="#F5F8FA" d="M29 25.5c0 1.381-1.119 2.5-2.5 2.5h-17C8.119 28 7 26.881 7 25.5S8.119 23 9.5 23h17c1.381 0 2.5 1.119 2.5 2.5z"/>
-                                                <path fill="#CCD6DD" d="M17 23h2v5h-2zm-5 0h2v5h-2zm10 0h2v5h-2zM7 25.5c0 1.21.859 2.218 2 2.45v-4.9c-1.141.232-2 1.24-2 2.45zm20-2.45v4.899c1.141-.232 2-1.24 2-2.45s-.859-2.217-2-2.449z"/>
-                                                <circle fill="#DD2E44" cx="11.5" cy="14.5" r="2.721"/>
-                                            </svg>
-                                            Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fa54713</div>
-                                        <div class="message">
-                                            refactor(currency): 改进货币扫描逻辑，只导入主流货币
-
-- 修改扫描逻辑：优先导入12种主要法币（USD, EUR, CNY, JPY等）
-- 虚拟币过滤条件：市值&gt;10亿美元，24小时交易量&gt;1亿美元，排名前50
-- 调整定时任务：从每小时改为每天凌晨2点执行，减少不必要的扫描
-- 主流货币默认开启所有功能（充值、提现、交易、转账）
-- 法币设置正确的小数位数（JPY和KRW为0位，其他为2位）
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <ellipse fill="#F4900C" cx="33.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <ellipse fill="#F4900C" cx="2.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <path fill="#FFAC33" d="M34 19c0 .553-.447 1-1 1h-3c-.553 0-1-.447-1-1v-9c0-.552.447-1 1-1h3c.553 0 1 .448 1 1v9zM7 19c0 .553-.448 1-1 1H3c-.552 0-1-.447-1-1v-9c0-.552.448-1 1-1h3c.552 0 1 .448 1 1v9z"/>
-                                                <path fill="#FFCC4D" d="M28 5c0 2.761-4.478 4-10 4C12.477 9 8 7.761 8 5s4.477-5 10-5c5.522 0 10 2.239 10 5z"/>
-                                                <path fill="#F4900C" d="M25 4.083C25 5.694 21.865 7 18 7c-3.866 0-7-1.306-7-2.917 0-1.611 3.134-2.917 7-2.917 3.865 0 7 1.306 7 2.917z"/>
-                                                <path fill="#269" d="M30 5.5C30 6.881 28.881 7 27.5 7h-19C7.119 7 6 6.881 6 5.5S7.119 3 8.5 3h19C28.881 3 30 4.119 30 5.5z"/>
-                                                <path fill="#55ACEE" d="M30 6H6c-1.104 0-2 .896-2 2v26h28V8c0-1.104-.896-2-2-2z"/>
-                                                <path fill="#3B88C3" d="M35 33v-1c0-1.104-.896-2-2-2H22.071l-3.364 3.364c-.391.391-1.023.391-1.414 0L13.929 30H3c-1.104 0-2 .896-2 2v1c0 1.104-.104 2 1 2h32c1.104 0 1-.896 1-2z"/>
-                                                <circle fill="#FFF" cx="24.5" cy="14.5" r="4.5"/>
-                                                <circle fill="#DD2E44" cx="24.5" cy="14.5" r="2.721"/>
-                                                <circle fill="#FFF" cx="11.5" cy="14.5" r="4.5"/>
-                                                <path fill="#F5F8FA" d="M29 25.5c0 1.381-1.119 2.5-2.5 2.5h-17C8.119 28 7 26.881 7 25.5S8.119 23 9.5 23h17c1.381 0 2.5 1.119 2.5 2.5z"/>
-                                                <path fill="#CCD6DD" d="M17 23h2v5h-2zm-5 0h2v5h-2zm10 0h2v5h-2zM7 25.5c0 1.21.859 2.218 2 2.45v-4.9c-1.141.232-2 1.24-2 2.45zm20-2.45v4.899c1.141-.232 2-1.24 2-2.45s-.859-2.217-2-2.449z"/>
-                                                <circle fill="#DD2E44" cx="11.5" cy="14.5" r="2.721"/>
-                                            </svg>
-                                            Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca38815</div>
-                                        <div class="message">
-                                            refactor(currency): 简化货币导入逻辑，移除难以维护的字段
-
-- 简化货币类别判断，只区分主流币(BTC/ETH)和其他币
-- 移除 metadata 中难以从 API 获取的字段，只保留必要数据
-- 调整功能开关默认值：扫描导入的货币仅开启交易，充提需手动配置
-- 使用市值排名作为排序依据，自动更新排序权重
-- 限额设置改为 null，需要管理员根据实际情况手动配置
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <ellipse fill="#F4900C" cx="33.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <ellipse fill="#F4900C" cx="2.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <path fill="#FFAC33" d="M34 19c0 .553-.447 1-1 1h-3c-.553 0-1-.447-1-1v-9c0-.552.447-1 1-1h3c.553 0 1 .448 1 1v9zM7 19c0 .553-.448 1-1 1H3c-.552 0-1-.447-1-1v-9c0-.552.448-1 1-1h3c.552 0 1 .448 1 1v9z"/>
-                                                <path fill="#FFCC4D" d="M28 5c0 2.761-4.478 4-10 4C12.477 9 8 7.761 8 5s4.477-5 10-5c5.522 0 10 2.239 10 5z"/>
-                                                <path fill="#F4900C" d="M25 4.083C25 5.694 21.865 7 18 7c-3.866 0-7-1.306-7-2.917 0-1.611 3.134-2.917 7-2.917 3.865 0 7 1.306 7 2.917z"/>
-                                                <path fill="#269" d="M30 5.5C30 6.881 28.881 7 27.5 7h-19C7.119 7 6 6.881 6 5.5S7.119 3 8.5 3h19C28.881 3 30 4.119 30 5.5z"/>
-                                                <path fill="#55ACEE" d="M30 6H6c-1.104 0-2 .896-2 2v26h28V8c0-1.104-.896-2-2-2z"/>
-                                                <path fill="#3B88C3" d="M35 33v-1c0-1.104-.896-2-2-2H22.071l-3.364 3.364c-.391.391-1.023.391-1.414 0L13.929 30H3c-1.104 0-2 .896-2 2v1c0 1.104-.104 2 1 2h32c1.104 0 1-.896 1-2z"/>
-                                                <circle fill="#FFF" cx="24.5" cy="14.5" r="4.5"/>
-                                                <circle fill="#DD2E44" cx="24.5" cy="14.5" r="2.721"/>
-                                                <circle fill="#FFF" cx="11.5" cy="14.5" r="4.5"/>
-                                                <path fill="#F5F8FA" d="M29 25.5c0 1.381-1.119 2.5-2.5 2.5h-17C8.119 28 7 26.881 7 25.5S8.119 23 9.5 23h17c1.381 0 2.5 1.119 2.5 2.5z"/>
-                                                <path fill="#CCD6DD" d="M17 23h2v5h-2zm-5 0h2v5h-2zm10 0h2v5h-2zM7 25.5c0 1.21.859 2.218 2 2.45v-4.9c-1.141.232-2 1.24-2 2.45zm20-2.45v4.899c1.141-.232 2-1.24 2-2.45s-.859-2.217-2-2.449z"/>
-                                                <circle fill="#DD2E44" cx="11.5" cy="14.5" r="2.721"/>
-                                            </svg>
-                                            Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#53c3ff3</div>
-                                        <div class="message">
-                                            feat(currency): 添加定时扫描新货币功能
-
-- 新增每小时自动扫描交易所上市新货币的定时任务
-- 实现 scanAndImportNewCurrencies 方法，只导入在交易所上市的货币
-- 新增 currency scan 子命令用于手动触发扫描
-- 改进货币分类逻辑，正确识别主流币、稳定币、MEME币和DeFi代币
-- 导入的新货币默认设置为活跃状态，可立即交易
-- 保持价格更新频率为每3分钟一次
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <ellipse fill="#F4900C" cx="33.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <ellipse fill="#F4900C" cx="2.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <path fill="#FFAC33" d="M34 19c0 .553-.447 1-1 1h-3c-.553 0-1-.447-1-1v-9c0-.552.447-1 1-1h3c.553 0 1 .448 1 1v9zM7 19c0 .553-.448 1-1 1H3c-.552 0-1-.447-1-1v-9c0-.552.448-1 1-1h3c.552 0 1 .448 1 1v9z"/>
-                                                <path fill="#FFCC4D" d="M28 5c0 2.761-4.478 4-10 4C12.477 9 8 7.761 8 5s4.477-5 10-5c5.522 0 10 2.239 10 5z"/>
-                                                <path fill="#F4900C" d="M25 4.083C25 5.694 21.865 7 18 7c-3.866 0-7-1.306-7-2.917 0-1.611 3.134-2.917 7-2.917 3.865 0 7 1.306 7 2.917z"/>
-                                                <path fill="#269" d="M30 5.5C30 6.881 28.881 7 27.5 7h-19C7.119 7 6 6.881 6 5.5S7.119 3 8.5 3h19C28.881 3 30 4.119 30 5.5z"/>
-                                                <path fill="#55ACEE" d="M30 6H6c-1.104 0-2 .896-2 2v26h28V8c0-1.104-.896-2-2-2z"/>
-                                                <path fill="#3B88C3" d="M35 33v-1c0-1.104-.896-2-2-2H22.071l-3.364 3.364c-.391.391-1.023.391-1.414 0L13.929 30H3c-1.104 0-2 .896-2 2v1c0 1.104-.104 2 1 2h32c1.104 0 1-.896 1-2z"/>
-                                                <circle fill="#FFF" cx="24.5" cy="14.5" r="4.5"/>
-                                                <circle fill="#DD2E44" cx="24.5" cy="14.5" r="2.721"/>
-                                                <circle fill="#FFF" cx="11.5" cy="14.5" r="4.5"/>
-                                                <path fill="#F5F8FA" d="M29 25.5c0 1.381-1.119 2.5-2.5 2.5h-17C8.119 28 7 26.881 7 25.5S8.119 23 9.5 23h17c1.381 0 2.5 1.119 2.5 2.5z"/>
-                                                <path fill="#CCD6DD" d="M17 23h2v5h-2zm-5 0h2v5h-2zm10 0h2v5h-2zM7 25.5c0 1.21.859 2.218 2 2.45v-4.9c-1.141.232-2 1.24-2 2.45zm20-2.45v4.899c1.141-.232 2-1.24 2-2.45s-.859-2.217-2-2.449z"/>
-                                                <circle fill="#DD2E44" cx="11.5" cy="14.5" r="2.721"/>
-                                            </svg>
-                                            Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
-                                        </div>
+                                        <div class="sha">#713204a</div>
+                                        <div class="message">release-925-env-4</div>
                                     </div>
                                 </div>
                             </section>
@@ -630,7 +503,7 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jun 2025, 10:33:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jun 2025, 11:24:51 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
