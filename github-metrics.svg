@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1175" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1002" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.repository,footer{display:flex;flex-direction:column}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;justify-content:flex-end;padding:0 4px}.repository{width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details,.field.license.details small{display:flex;justify-content:space-between}.field.license.details small{color:#666;text-align:right}.introduction{white-space:normal;margin:0 13px 2px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2424 Commits
+                            2425 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -260,13 +260,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 199 commits)</small>
+                    <small class="h-details">(computed from last 197 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 33.9 characters per line of code written</li>
-                        <li>Mostly pushes code around 15:00</li>
+                        <li>Mostly pushes code around 17:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
                 </div>
@@ -349,6 +349,85 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">add-claude-github-actions-1750660187432</span>
+                                        in
+                                        <span class="repo">ttmm-jys/workspace</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">add-claude-github-actions-1750660187455</span>
+                                        in
+                                        <span class="repo">ttmm-jys/workspace</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ttmm-jys/workspace</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ab25644</div>
+                                        <div class="message">
+                                            fix(api): 修复 TypeScript 类型安全问题
+
+移除所有 as any 使用，确保类型安全：
+- 创建正确的接口定义
+- 修复 MikroORM 实体类型访问
+- 改善 CLI 命令类型安全
+- 从 437+ 个错误降至 0 个错误
+                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+                                                <ellipse fill="#F4900C" cx="33.5" cy="14.5" rx="2.5" ry="3.5"/>
+                                                <ellipse fill="#F4900C" cx="2.5" cy="14.5" rx="2.5" ry="3.5"/>
+                                                <path fill="#FFAC33" d="M34 19c0 .553-.447 1-1 1h-3c-.553 0-1-.447-1-1v-9c0-.552.447-1 1-1h3c.553 0 1 .448 1 1v9zM7 19c0 .553-.448 1-1 1H3c-.552 0-1-.447-1-1v-9c0-.552.448-1 1-1h3c.552 0 1 .448 1 1v9z"/>
+                                                <path fill="#FFCC4D" d="M28 5c0 2.761-4.478 4-10 4C12.477 9 8 7.761 8 5s4.477-5 10-5c5.522 0 10 2.239 10 5z"/>
+                                                <path fill="#F4900C" d="M25 4.083C25 5.694 21.865 7 18 7c-3.866 0-7-1.306-7-2.917 0-1.611 3.134-2.917 7-2.917 3.865 0 7 1.306 7 2.917z"/>
+                                                <path fill="#269" d="M30 5.5C30 6.881 28.881 7 27.5 7h-19C7.119 7 6 6.881 6 5.5S7.119 3 8.5 3h19C28.881 3 30 4.119 30 5.5z"/>
+                                                <path fill="#55ACEE" d="M30 6H6c-1.104 0-2 .896-2 2v26h28V8c0-1.104-.896-2-2-2z"/>
+                                                <path fill="#3B88C3" d="M35 33v-1c0-1.104-.896-2-2-2H22.071l-3.364 3.364c-.391.391-1.023.391-1.414 0L13.929 30H3c-1.104 0-2 .896-2 2v1c0 1.104-.104 2 1 2h32c1.104 0 1-.896 1-2z"/>
+                                                <circle fill="#FFF" cx="24.5" cy="14.5" r="4.5"/>
+                                                <circle fill="#DD2E44" cx="24.5" cy="14.5" r="2.721"/>
+                                                <circle fill="#FFF" cx="11.5" cy="14.5" r="4.5"/>
+                                                <path fill="#F5F8FA" d="M29 25.5c0 1.381-1.119 2.5-2.5 2.5h-17C8.119 28 7 26.881 7 25.5S8.119 23 9.5 23h17c1.381 0 2.5 1.119 2.5 2.5z"/>
+                                                <path fill="#CCD6DD" d="M17 23h2v5h-2zm-5 0h2v5h-2zm10 0h2v5h-2zM7 25.5c0 1.21.859 2.218 2 2.45v-4.9c-1.141.232-2 1.24-2 2.45zm20-2.45v4.899c1.141-.232 2-1.24 2-2.45s-.859-2.217-2-2.449z"/>
+                                                <circle fill="#DD2E44" cx="11.5" cy="14.5" r="2.721"/>
+                                            </svg>
+                                            Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
+                                        </div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -469,394 +548,6 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ttmm-jys/workspace</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#afcf9a3</div>
-                                        <div class="message">
-                                            refactor(api): 清理冗余代码和接口定义
-
-- 移除 currency.cron.ts 中的冗余日志输出
-- 删除重复的 blockchain-api.interface.ts 文件，相关接口已在 blockchain-metadata.interface.ts 中定义
-- 更新 exchange-wallet/interfaces/index.ts 的导出
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <ellipse fill="#F4900C" cx="33.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <ellipse fill="#F4900C" cx="2.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <path fill="#FFAC33" d="M34 19c0 .553-.447 1-1 1h-3c-.553 0-1-.447-1-1v-9c0-.552.447-1 1-1h3c.553 0 1 .448 1 1v9zM7 19c0 .553-.448 1-1 1H3c-.552 0-1-.447-1-1v-9c0-.552.448-1 1-1h3c.552 0 1 .448 1 1v9z"/>
-                                                <path fill="#FFCC4D" d="M28 5c0 2.761-4.478 4-10 4C12.477 9 8 7.761 8 5s4.477-5 10-5c5.522 0 10 2.239 10 5z"/>
-                                                <path fill="#F4900C" d="M25 4.083C25 5.694 21.865 7 18 7c-3.866 0-7-1.306-7-2.917 0-1.611 3.134-2.917 7-2.917 3.865 0 7 1.306 7 2.917z"/>
-                                                <path fill="#269" d="M30 5.5C30 6.881 28.881 7 27.5 7h-19C7.119 7 6 6.881 6 5.5S7.119 3 8.5 3h19C28.881 3 30 4.119 30 5.5z"/>
-                                                <path fill="#55ACEE" d="M30 6H6c-1.104 0-2 .896-2 2v26h28V8c0-1.104-.896-2-2-2z"/>
-                                                <path fill="#3B88C3" d="M35 33v-1c0-1.104-.896-2-2-2H22.071l-3.364 3.364c-.391.391-1.023.391-1.414 0L13.929 30H3c-1.104 0-2 .896-2 2v1c0 1.104-.104 2 1 2h32c1.104 0 1-.896 1-2z"/>
-                                                <circle fill="#FFF" cx="24.5" cy="14.5" r="4.5"/>
-                                                <circle fill="#DD2E44" cx="24.5" cy="14.5" r="2.721"/>
-                                                <circle fill="#FFF" cx="11.5" cy="14.5" r="4.5"/>
-                                                <path fill="#F5F8FA" d="M29 25.5c0 1.381-1.119 2.5-2.5 2.5h-17C8.119 28 7 26.881 7 25.5S8.119 23 9.5 23h17c1.381 0 2.5 1.119 2.5 2.5z"/>
-                                                <path fill="#CCD6DD" d="M17 23h2v5h-2zm-5 0h2v5h-2zm10 0h2v5h-2zM7 25.5c0 1.21.859 2.218 2 2.45v-4.9c-1.141.232-2 1.24-2 2.45zm20-2.45v4.899c1.141-.232 2-1.24 2-2.45s-.859-2.217-2-2.449z"/>
-                                                <circle fill="#DD2E44" cx="11.5" cy="14.5" r="2.721"/>
-                                            </svg>
-                                            Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">ttmm-jys/workspace</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#18a2cf4</div>
-                                        <div class="message">
-                                            refactor(api): 整理和集中管理所有枚举定义
-
-- 创建 src/enums 目录，将分散在各个模块中的枚举定义集中管理
-- 创建 7 个枚举文件，按功能分类：
-  - status.enum.ts: 通用状态枚举
-  - transaction.enum.ts: 交易相关枚举
-  - wallet.enum.ts: 钱包相关枚举
-  - user.enum.ts: 用户相关枚举
-  - coin.enum.ts: 币种相关枚举
-  - notification.enum.ts: 通知和警报相关枚举
-  - infrastructure.enum.ts: 基础设施相关枚举
-- 合并相似的枚举定义，避免重复
-- 从实体和接口文件中移除枚举定义，改为导入集中的枚举
-- 更新所有模块的枚举导入路径
-- 添加缺失的枚举值以修复编译错误
-- 创建缺失的 currency 模块实体和仓库文件
-- 修复所有绝对路径导入为相对路径导入
-- 为所有枚举添加中文注释说明
-
-影响的模块：
-- wallet: 用户钱包模块
-- exchange-wallet: 交易所钱包模块
-- user: 用户模块
-- agent: 代理模块
-- coin: 币种模块
-- currency: 货币模块
-- infrastructure: 基础设施模块
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <ellipse fill="#F4900C" cx="33.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <ellipse fill="#F4900C" cx="2.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <path fill="#FFAC33" d="M34 19c0 .553-.447 1-1 1h-3c-.553 0-1-.447-1-1v-9c0-.552.447-1 1-1h3c.553 0 1 .448 1 1v9zM7 19c0 .553-.448 1-1 1H3c-.552 0-1-.447-1-1v-9c0-.552.448-1 1-1h3c.552 0 1 .448 1 1v9z"/>
-                                                <path fill="#FFCC4D" d="M28 5c0 2.761-4.478 4-10 4C12.477 9 8 7.761 8 5s4.477-5 10-5c5.522 0 10 2.239 10 5z"/>
-                                                <path fill="#F4900C" d="M25 4.083C25 5.694 21.865 7 18 7c-3.866 0-7-1.306-7-2.917 0-1.611 3.134-2.917 7-2.917 3.865 0 7 1.306 7 2.917z"/>
-                                                <path fill="#269" d="M30 5.5C30 6.881 28.881 7 27.5 7h-19C7.119 7 6 6.881 6 5.5S7.119 3 8.5 3h19C28.881 3 30 4.119 30 5.5z"/>
-                                                <path fill="#55ACEE" d="M30 6H6c-1.104 0-2 .896-2 2v26h28V8c0-1.104-.896-2-2-2z"/>
-                                                <path fill="#3B88C3" d="M35 33v-1c0-1.104-.896-2-2-2H22.071l-3.364 3.364c-.391.391-1.023.391-1.414 0L13.929 30H3c-1.104 0-2 .896-2 2v1c0 1.104-.104 2 1 2h32c1.104 0 1-.896 1-2z"/>
-                                                <circle fill="#FFF" cx="24.5" cy="14.5" r="4.5"/>
-                                                <circle fill="#DD2E44" cx="24.5" cy="14.5" r="2.721"/>
-                                                <circle fill="#FFF" cx="11.5" cy="14.5" r="4.5"/>
-                                                <path fill="#F5F8FA" d="M29 25.5c0 1.381-1.119 2.5-2.5 2.5h-17C8.119 28 7 26.881 7 25.5S8.119 23 9.5 23h17c1.381 0 2.5 1.119 2.5 2.5z"/>
-                                                <path fill="#CCD6DD" d="M17 23h2v5h-2zm-5 0h2v5h-2zm10 0h2v5h-2zM7 25.5c0 1.21.859 2.218 2 2.45v-4.9c-1.141.232-2 1.24-2 2.45zm20-2.45v4.899c1.141-.232 2-1.24 2-2.45s-.859-2.217-2-2.449z"/>
-                                                <circle fill="#DD2E44" cx="11.5" cy="14.5" r="2.721"/>
-                                            </svg>
-                                            Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b2b83a7</div>
-                                        <div class="message">
-                                            refactor(exchange-wallet): 移除实体中的枚举定义并改为从 src/enums 导入
-
-- 创建 exchange-wallet.enum.ts 定义 ExchangeWalletPurpose 和 ExchangeWalletTransactionStatus
-- 更新 exchange-wallet.entity.ts 使用 ExchangeWalletPurpose 和 WalletStatus
-- 更新 exchange-wallet-address.entity.ts 使用 AddressStatus
-- 更新 exchange-wallet-address-allocation.entity.ts 使用 AllocationType
-- 更新 exchange-wallet-transaction.entity.ts 使用 TransactionDirection 和 ExchangeWalletTransactionStatus
-- 更新 exchange-wallet-withdrawal.entity.ts 使用 WithdrawalStatus
-- 统一枚举管理，提升代码复用性和维护性
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <ellipse fill="#F4900C" cx="33.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <ellipse fill="#F4900C" cx="2.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <path fill="#FFAC33" d="M34 19c0 .553-.447 1-1 1h-3c-.553 0-1-.447-1-1v-9c0-.552.447-1 1-1h3c.553 0 1 .448 1 1v9zM7 19c0 .553-.448 1-1 1H3c-.552 0-1-.447-1-1v-9c0-.552.448-1 1-1h3c.552 0 1 .448 1 1v9z"/>
-                                                <path fill="#FFCC4D" d="M28 5c0 2.761-4.478 4-10 4C12.477 9 8 7.761 8 5s4.477-5 10-5c5.522 0 10 2.239 10 5z"/>
-                                                <path fill="#F4900C" d="M25 4.083C25 5.694 21.865 7 18 7c-3.866 0-7-1.306-7-2.917 0-1.611 3.134-2.917 7-2.917 3.865 0 7 1.306 7 2.917z"/>
-                                                <path fill="#269" d="M30 5.5C30 6.881 28.881 7 27.5 7h-19C7.119 7 6 6.881 6 5.5S7.119 3 8.5 3h19C28.881 3 30 4.119 30 5.5z"/>
-                                                <path fill="#55ACEE" d="M30 6H6c-1.104 0-2 .896-2 2v26h28V8c0-1.104-.896-2-2-2z"/>
-                                                <path fill="#3B88C3" d="M35 33v-1c0-1.104-.896-2-2-2H22.071l-3.364 3.364c-.391.391-1.023.391-1.414 0L13.929 30H3c-1.104 0-2 .896-2 2v1c0 1.104-.104 2 1 2h32c1.104 0 1-.896 1-2z"/>
-                                                <circle fill="#FFF" cx="24.5" cy="14.5" r="4.5"/>
-                                                <circle fill="#DD2E44" cx="24.5" cy="14.5" r="2.721"/>
-                                                <circle fill="#FFF" cx="11.5" cy="14.5" r="4.5"/>
-                                                <path fill="#F5F8FA" d="M29 25.5c0 1.381-1.119 2.5-2.5 2.5h-17C8.119 28 7 26.881 7 25.5S8.119 23 9.5 23h17c1.381 0 2.5 1.119 2.5 2.5z"/>
-                                                <path fill="#CCD6DD" d="M17 23h2v5h-2zm-5 0h2v5h-2zm10 0h2v5h-2zM7 25.5c0 1.21.859 2.218 2 2.45v-4.9c-1.141.232-2 1.24-2 2.45zm20-2.45v4.899c1.141-.232 2-1.24 2-2.45s-.859-2.217-2-2.449z"/>
-                                                <circle fill="#DD2E44" cx="11.5" cy="14.5" r="2.721"/>
-                                            </svg>
-                                            Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">ttmm-jys/workspace</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d1536ad</div>
-                                        <div class="message">
-                                            chore(deps): 更新依赖锁文件
-
-- 更新 pnpm-lock.yaml 以反映 @typeschema/core 依赖的添加
-- 格式化 package.json (由 pre-commit hook 自动处理)
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <ellipse fill="#F4900C" cx="33.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <ellipse fill="#F4900C" cx="2.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <path fill="#FFAC33" d="M34 19c0 .553-.447 1-1 1h-3c-.553 0-1-.447-1-1v-9c0-.552.447-1 1-1h3c.553 0 1 .448 1 1v9zM7 19c0 .553-.448 1-1 1H3c-.552 0-1-.447-1-1v-9c0-.552.448-1 1-1h3c.552 0 1 .448 1 1v9z"/>
-                                                <path fill="#FFCC4D" d="M28 5c0 2.761-4.478 4-10 4C12.477 9 8 7.761 8 5s4.477-5 10-5c5.522 0 10 2.239 10 5z"/>
-                                                <path fill="#F4900C" d="M25 4.083C25 5.694 21.865 7 18 7c-3.866 0-7-1.306-7-2.917 0-1.611 3.134-2.917 7-2.917 3.865 0 7 1.306 7 2.917z"/>
-                                                <path fill="#269" d="M30 5.5C30 6.881 28.881 7 27.5 7h-19C7.119 7 6 6.881 6 5.5S7.119 3 8.5 3h19C28.881 3 30 4.119 30 5.5z"/>
-                                                <path fill="#55ACEE" d="M30 6H6c-1.104 0-2 .896-2 2v26h28V8c0-1.104-.896-2-2-2z"/>
-                                                <path fill="#3B88C3" d="M35 33v-1c0-1.104-.896-2-2-2H22.071l-3.364 3.364c-.391.391-1.023.391-1.414 0L13.929 30H3c-1.104 0-2 .896-2 2v1c0 1.104-.104 2 1 2h32c1.104 0 1-.896 1-2z"/>
-                                                <circle fill="#FFF" cx="24.5" cy="14.5" r="4.5"/>
-                                                <circle fill="#DD2E44" cx="24.5" cy="14.5" r="2.721"/>
-                                                <circle fill="#FFF" cx="11.5" cy="14.5" r="4.5"/>
-                                                <path fill="#F5F8FA" d="M29 25.5c0 1.381-1.119 2.5-2.5 2.5h-17C8.119 28 7 26.881 7 25.5S8.119 23 9.5 23h17c1.381 0 2.5 1.119 2.5 2.5z"/>
-                                                <path fill="#CCD6DD" d="M17 23h2v5h-2zm-5 0h2v5h-2zm10 0h2v5h-2zM7 25.5c0 1.21.859 2.218 2 2.45v-4.9c-1.141.232-2 1.24-2 2.45zm20-2.45v4.899c1.141-.232 2-1.24 2-2.45s-.859-2.217-2-2.449z"/>
-                                                <circle fill="#DD2E44" cx="11.5" cy="14.5" r="2.721"/>
-                                            </svg>
-                                            Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e5d631</div>
-                                        <div class="message">
-                                            fix(wallet): 修复循环依赖和 TypeScript 编译错误
-
-- 修复 CurrencyModule 中的循环依赖问题，CurrencyPriceUpdateProcessor 直接注入 CurrencyPriceService
-- 修复 API key manager 服务中的类型错误和方法调用
-- 修复 batch operation 服务中缺失的实体导入和方法调用
-- 修复 confirmation 服务中的接口实现冲突
-- 创建 common.interface.ts 解决重复接口定义问题
-- 修复管理员订阅解析器的导入路径
-- 添加 @typeschema/core 依赖并修复验证管道类型问题
-- 修复 chain-type-mapper 工具的导入路径错误
-- 确保所有代码实现完整，无 TODO 或未实现逻辑
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <ellipse fill="#F4900C" cx="33.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <ellipse fill="#F4900C" cx="2.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <path fill="#FFAC33" d="M34 19c0 .553-.447 1-1 1h-3c-.553 0-1-.447-1-1v-9c0-.552.447-1 1-1h3c.553 0 1 .448 1 1v9zM7 19c0 .553-.448 1-1 1H3c-.552 0-1-.447-1-1v-9c0-.552.448-1 1-1h3c.552 0 1 .448 1 1v9z"/>
-                                                <path fill="#FFCC4D" d="M28 5c0 2.761-4.478 4-10 4C12.477 9 8 7.761 8 5s4.477-5 10-5c5.522 0 10 2.239 10 5z"/>
-                                                <path fill="#F4900C" d="M25 4.083C25 5.694 21.865 7 18 7c-3.866 0-7-1.306-7-2.917 0-1.611 3.134-2.917 7-2.917 3.865 0 7 1.306 7 2.917z"/>
-                                                <path fill="#269" d="M30 5.5C30 6.881 28.881 7 27.5 7h-19C7.119 7 6 6.881 6 5.5S7.119 3 8.5 3h19C28.881 3 30 4.119 30 5.5z"/>
-                                                <path fill="#55ACEE" d="M30 6H6c-1.104 0-2 .896-2 2v26h28V8c0-1.104-.896-2-2-2z"/>
-                                                <path fill="#3B88C3" d="M35 33v-1c0-1.104-.896-2-2-2H22.071l-3.364 3.364c-.391.391-1.023.391-1.414 0L13.929 30H3c-1.104 0-2 .896-2 2v1c0 1.104-.104 2 1 2h32c1.104 0 1-.896 1-2z"/>
-                                                <circle fill="#FFF" cx="24.5" cy="14.5" r="4.5"/>
-                                                <circle fill="#DD2E44" cx="24.5" cy="14.5" r="2.721"/>
-                                                <circle fill="#FFF" cx="11.5" cy="14.5" r="4.5"/>
-                                                <path fill="#F5F8FA" d="M29 25.5c0 1.381-1.119 2.5-2.5 2.5h-17C8.119 28 7 26.881 7 25.5S8.119 23 9.5 23h17c1.381 0 2.5 1.119 2.5 2.5z"/>
-                                                <path fill="#CCD6DD" d="M17 23h2v5h-2zm-5 0h2v5h-2zm10 0h2v5h-2zM7 25.5c0 1.21.859 2.218 2 2.45v-4.9c-1.141.232-2 1.24-2 2.45zm20-2.45v4.899c1.141-.232 2-1.24 2-2.45s-.859-2.217-2-2.449z"/>
-                                                <circle fill="#DD2E44" cx="11.5" cy="14.5" r="2.721"/>
-                                            </svg>
-                                            Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f9b036b</div>
-                                        <div class="message">
-                                            refactor(api): 重构API目录结构，统一命名规范
-
-##
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#66757F" d="M28.25 8.513c0-.145-.117-.263-.263-.263h-.475c-.145 0-.263.118-.263.263v11.475c0 .145.117.263.263.263h.475c.145 0 .263-.117.263-.263V8.513z"/>
-                                                <g fill="#F19020">
-                                                    <circle cx="27.75" cy="19.75" r="1.5"/>
-                                                    <circle cx="27.75" cy="22.25" r="1"/>
-                                                </g>
-                                                <path fill="#BD2032" d="M33.25 8.25h-4.129L9.946.29 9.944.289h-.001c-.016-.007-.032-.005-.047-.01C9.849.265 9.802.25 9.75.25h-.002c-.066 0-.13.014-.19.038-.045.02-.084.05-.122.082-.012.009-.026.014-.037.025-.047.046-.085.102-.11.164V.56c-.004.009-.003.02-.006.029l-5.541 7.81c-.003.004-.003.01-.006.014-.285.176-.486.477-.486.837v2c0 .552.448 1 1 1h1.495L2.031 34H.25v2h18.958v-2h-1.74l-3.713-21.75H33.25c.553 0 1-.448 1-1v-2c0-.552-.447-1-1-1zm-21.769 4L9.75 13.639 8.02 12.25h3.461zM9.75 21.3l3.667 2.404-3.667 2-3.667-2L9.75 21.3zm-3.639.71l.474-2.784 1.866 1.223-2.34 1.561zm4.938-1.561l1.87-1.225.477 2.789-2.347-1.564zm-1.299-.866l-2.828-1.885 2.828-2.322 2.828 2.322-2.828 1.885zm-2.563-3.887l.362-2.127 1.131.928-1.493 1.199zm3.633-1.198l1.132-.929.364 2.13-1.496-1.201zM5.073 8.25L9.25 2.362V6.25h-2c-.552 0-1 .448-1 1v1H5.073zm.53 16.738l2.73 1.489-3.29 1.794.56-3.283zM15.443 34H4.067l.686-4.024L9.75 27.25l5.006 2.731.687 4.019zm-1.54-9.015l.562 3.291-3.298-1.799 2.736-1.492zM13.25 8.25v-1c0-.552-.448-1-1-1h-2V1.499L26.513 8.25H13.25zm2 3h-1.16v-2h1.16v2zm3 0h-2v-2h2v2zm3 0h-2v-2h2v2zm3 0h-2v-2h2v2zm3 0h-2v-2h2v2zm3 0h-2v-2h2v2zm3-.5c0 .276-.224.5-.5.5h-1.5v-2h1.5c.276 0 .5.224.5.5v1z"/>
-                                                <path fill="#4B545D" d="M12.25 7.25h-2c-.552 0-1 .448-1 1v2c0 .552.448 1 1 1h3v-4h-1z"/>
-                                                <path fill="#CDD7DF" d="M11.25 7.25h2v4h-2z"/>
-                                                <path fill="#66757F" d="M34.844 24v-1H20.656v1h.844v2.469h-.844v1h14.188v-1H34V24z"/>
-                                            </svg>
-                                            重构内容
-
-### 目录结构调整
-- `task/` → `cron/` - 定时任务统一放入cron目录
-- `consumer/` → `processor/` - 队列处理器统一命名
-- `utils/` → `util/` - 工具类目录统一命名
-
-### 文件命名规范
-- `xxx-cron.service.ts` → `xxx.cron.ts`
-- `xxx.consumer.ts` → `xxx.processor.ts`
-
-### 模块重构
-- **Exchange Wallet**: 移动定时任务到cron/，重命名utils为util/
-- **Coin**: 创建cron/目录，重命名consumer为processor/
-- **Currency**: 创建cron/目录，重命名consumer为processor/
-
-### 队列名称规范化
-- 统一使用'-'连接符，避免BullMQ不支持':'的问题
-- 新增constants.ts文件定义队列名称常量
-- 修复所有相关导入路径
-
-### 导入路径更新
-- 更新相对路径以适应新的目录结构
-- 修复所有模块间的依赖关系
-- 确保构建正确通过
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <circle fill="#DD2E44" cx="18" cy="18" r="18"/>
-                                                <circle fill="#FFF" cx="18" cy="18" r="13.5"/>
-                                                <circle fill="#DD2E44" cx="18" cy="18" r="10"/>
-                                                <circle fill="#FFF" cx="18" cy="18" r="6"/>
-                                                <circle fill="#DD2E44" cx="18" cy="18" r="3"/>
-                                                <path opacity=".2" d="M18.24 18.282l13.144 11.754s-2.647 3.376-7.89 5.109L17.579 18.42l.661-.138z"/>
-                                                <path fill="#FFAC33" d="M18.294 19c-.255 0-.509-.097-.704-.292-.389-.389-.389-1.018 0-1.407l.563-.563c.389-.389 1.018-.389 1.408 0 .388.389.388 1.018 0 1.407l-.564.563c-.194.195-.448.292-.703.292z"/>
-                                                <path fill="#55ACEE" d="M24.016 6.981c-.403 2.079 0 4.691 0 4.691l7.054-7.388c.291-1.454-.528-3.932-1.718-4.238-1.19-.306-4.079.803-5.336 6.935zm5.003 5.003c-2.079.403-4.691 0-4.691 0l7.388-7.054c1.454-.291 3.932.528 4.238 1.718.306 1.19-.803 4.079-6.935 5.336z"/>
-                                                <path fill="#3A87C2" d="M32.798 4.485L21.176 17.587c-.362.362-1.673.882-2.51.046-.836-.836-.419-2.08-.057-2.443L31.815 3.501s.676-.635 1.159-.152-.176 1.136-.176 1.136z"/>
-                                            </svg>
-                                            Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3dd3974</div>
-                                        <div class="message">
-                                            feat(wallet): 完成 Phase 6 监控指标和告警系统实现
-
-• 实现 MetricsService - 收集地址池、交易、API、队列、批量任务指标
-• 实现 AlertService - 多级别告警规则，冷却机制，告警聚合
-• 实现 HealthCheckService - 全方位系统健康检查
-• 实现 MonitoringCronService - 自动化监控定时任务
-• 配置 11 个告警规则 - 紧急、警告、信息三级告警
-• 支持实时指标收集和历史数据存储
-• 集成监控服务到钱包模块
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <circle fill="#DD2E44" cx="18" cy="18" r="18"/>
-                                                <circle fill="#FFF" cx="18" cy="18" r="13.5"/>
-                                                <circle fill="#DD2E44" cx="18" cy="18" r="10"/>
-                                                <circle fill="#FFF" cx="18" cy="18" r="6"/>
-                                                <circle fill="#DD2E44" cx="18" cy="18" r="3"/>
-                                                <path opacity=".2" d="M18.24 18.282l13.144 11.754s-2.647 3.376-7.89 5.109L17.579 18.42l.661-.138z"/>
-                                                <path fill="#FFAC33" d="M18.294 19c-.255 0-.509-.097-.704-.292-.389-.389-.389-1.018 0-1.407l.563-.563c.389-.389 1.018-.389 1.408 0 .388.389.388 1.018 0 1.407l-.564.563c-.194.195-.448.292-.703.292z"/>
-                                                <path fill="#55ACEE" d="M24.016 6.981c-.403 2.079 0 4.691 0 4.691l7.054-7.388c.291-1.454-.528-3.932-1.718-4.238-1.19-.306-4.079.803-5.336 6.935zm5.003 5.003c-2.079.403-4.691 0-4.691 0l7.388-7.054c1.454-.291 3.932.528 4.238 1.718.306 1.19-.803 4.079-6.935 5.336z"/>
-                                                <path fill="#3A87C2" d="M32.798 4.485L21.176 17.587c-.362.362-1.673.882-2.51.046-.836-.836-.419-2.08-.057-2.443L31.815 3.501s.676-.635 1.159-.152-.176 1.136-.176 1.136z"/>
-                                            </svg>
-                                            监控覆盖范围:
-- 地址池状态监控 (可用数、分配率、利用率)
-- 交易流程监控 (确认延迟、失败率、交易量)
-- API服务监控 (健康度、错误率、响应时间)
-- 队列性能监控 (积压数、处理延迟、吞吐量)
-- 批量任务监控 (执行进度、成功率、平均耗时)
-- 系统资源监控 (内存使用、数据库连接)
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#CCD6DD" d="M33 3c-7-3-15-3-15-3S10 0 3 3C0 18 3 31 18 36c15-5 18-18 15-33z"/>
-                                                <path fill="#55ACEE" d="M18 33.884C6.412 29.729 1.961 19.831 4.76 4.444 11.063 2.029 17.928 2 18 2c.071 0 6.958.04 13.24 2.444 2.799 15.387-1.652 25.285-13.24 29.44z"/>
-                                                <path fill="#269" d="M31.24 4.444C24.958 2.04 18.071 2 18 2v31.884c11.588-4.155 16.039-14.053 13.24-29.44z"/>
-                                            </svg>
-                                            企业级特性:
-- 智能告警降噪和冷却机制
-- 分布式锁防止重复执行
-- 自动化健康检查和恢复
-- 每日监控报告生成
-- 多渠道告警通知路由
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#A0041E" d="M1 17l8-7 16 1 1 16-7 8s.001-5.999-6-12-12-6-12-6z"/>
-                                                <path fill="#FFAC33" d="M.973 35s-.036-7.979 2.985-11S15 21.187 15 21.187 14.999 29 11.999 32c-3 3-11.026 3-11.026 3z"/>
-                                                <circle fill="#FFCC4D" cx="8.999" cy="27" r="4"/>
-                                                <path fill="#55ACEE" d="M35.999 0s-10 0-22 10c-6 5-6 14-4 16s11 2 16-4c10-12 10-22 10-22z"/>
-                                                <path d="M26.999 5c-1.623 0-3.013.971-3.641 2.36.502-.227 1.055-.36 1.641-.36 2.209 0 4 1.791 4 4 0 .586-.133 1.139-.359 1.64 1.389-.627 2.359-2.017 2.359-3.64 0-2.209-1.791-4-4-4z"/>
-                                                <path fill="#A0041E" d="M8 28s0-4 1-5 13.001-10.999 14-10-9.001 13-10.001 14S8 28 8 28z"/>
-                                            </svg>
-                                            Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#078b189</div>
-                                        <div class="message">
-                                            feat(wallet): 完成 Phase 5 队列处理器和定时任务实现
-
-实现完整的异步任务处理和自动化运维能力：
-
-## 新增功能
-
-### 队列处理器
-- **交易同步处理器**: 异步处理钱包交易同步，支持 API 限流处理和自动重试
-- **确认检查处理器**: 批量检查交易确认数，智能缓存优化，自动入账处理
-- **提现执行处理器**: 安全串行执行提现，完整风控检查，私钥安全管理
-- **批量任务处理器**: 支持断点续传，实时进度跟踪，任务暂停恢复
-
-### 定时任务系统
-- **交易同步任务** (30秒): 扫描活跃钱包，创建同步任务
-- **代币同步任务** (45秒): 同步重要代币交易，按优先级处理
-- **确认检查任务** (60秒): 批量检查待确认交易，按链分组优化
-- **地址池维护** (10分钟): 自动检查和补充地址池
-- **连续性检查** (1小时): 检查地址索引完整性，自动修复
-- **API健康检查** (10分钟): 监控密钥状态，自动恢复
-- **批量任务监控** (5分钟): 检查卡住任务，自动恢复执行
-
-### 核心改进
-- 分布式锁机制防止重复执行
-- 智能错误分类和重试策略
-- 批量处理优化性能
-- 实时监控和告警
-- 私钥安全处理
-- 完整的进度跟踪
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <ellipse fill="#F4900C" cx="33.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <ellipse fill="#F4900C" cx="2.5" cy="14.5" rx="2.5" ry="3.5"/>
-                                                <path fill="#FFAC33" d="M34 19c0 .553-.447 1-1 1h-3c-.553 0-1-.447-1-1v-9c0-.552.447-1 1-1h3c.553 0 1 .448 1 1v9zM7 19c0 .553-.448 1-1 1H3c-.552 0-1-.447-1-1v-9c0-.552.448-1 1-1h3c.552 0 1 .448 1 1v9z"/>
-                                                <path fill="#FFCC4D" d="M28 5c0 2.761-4.478 4-10 4C12.477 9 8 7.761 8 5s4.477-5 10-5c5.522 0 10 2.239 10 5z"/>
-                                                <path fill="#F4900C" d="M25 4.083C25 5.694 21.865 7 18 7c-3.866 0-7-1.306-7-2.917 0-1.611 3.134-2.917 7-2.917 3.865 0 7 1.306 7 2.917z"/>
-                                                <path fill="#269" d="M30 5.5C30 6.881 28.881 7 27.5 7h-19C7.119 7 6 6.881 6 5.5S7.119 3 8.5 3h19C28.881 3 30 4.119 30 5.5z"/>
-                                                <path fill="#55ACEE" d="M30 6H6c-1.104 0-2 .896-2 2v26h28V8c0-1.104-.896-2-2-2z"/>
-                                                <path fill="#3B88C3" d="M35 33v-1c0-1.104-.896-2-2-2H22.071l-3.364 3.364c-.391.391-1.023.391-1.414 0L13.929 30H3c-1.104 0-2 .896-2 2v1c0 1.104-.104 2 1 2h32c1.104 0 1-.896 1-2z"/>
-                                                <circle fill="#FFF" cx="24.5" cy="14.5" r="4.5"/>
-                                                <circle fill="#DD2E44" cx="24.5" cy="14.5" r="2.721"/>
-                                                <circle fill="#FFF" cx="11.5" cy="14.5" r="4.5"/>
-                                                <path fill="#F5F8FA" d="M29 25.5c0 1.381-1.119 2.5-2.5 2.5h-17C8.119 28 7 26.881 7 25.5S8.119 23 9.5 23h17c1.381 0 2.5 1.119 2.5 2.5z"/>
-                                                <path fill="#CCD6DD" d="M17 23h2v5h-2zm-5 0h2v5h-2zm10 0h2v5h-2zM7 25.5c0 1.21.859 2.218 2 2.45v-4.9c-1.141.232-2 1.24-2 2.45zm20-2.45v4.899c1.141-.232 2-1.24 2-2.45s-.859-2.217-2-2.449z"/>
-                                                <circle fill="#DD2E44" cx="11.5" cy="14.5" r="2.721"/>
-                                            </svg>
-                                            Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
-                                        </div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -880,7 +571,7 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2025, 14:05:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jun 2025, 15:05:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
