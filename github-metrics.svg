@@ -358,14 +358,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-app-backend-service-user</span>
+                                        <span class="repo">super-game-white/devtron-app-backend-service-pay</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#125f1c0</div>
-                                        <div class="message">release-1304-env-4</div>
+                                        <div class="sha">#3cda01f</div>
+                                        <div class="message">release-1312-env-4</div>
                                     </div>
                                 </div>
                             </section>
@@ -384,8 +384,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f25c428</div>
-                                        <div class="message">release-1303-env-2</div>
+                                        <div class="sha">#1d8ea09</div>
+                                        <div class="message">release-1311-env-3</div>
                                     </div>
                                 </div>
                             </section>
@@ -398,14 +398,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-app-backend-service-user</span>
+                                        <span class="repo">super-game-white/devtron-app-infra-backend-xxl-job</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2affd2e</div>
-                                        <div class="message">release-1302-env-2</div>
+                                        <div class="sha">#04288ac</div>
+                                        <div class="message">release-1310-env-6</div>
                                     </div>
                                 </div>
                             </section>
@@ -424,8 +424,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5c07660</div>
-                                        <div class="message">release-1301-env-2</div>
+                                        <div class="sha">#a366d78</div>
+                                        <div class="message">release-1309-env-3</div>
                                     </div>
                                 </div>
                             </section>
@@ -444,8 +444,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0f44a93</div>
-                                        <div class="message">release-1300-env-2</div>
+                                        <div class="sha">#fc2ea8d</div>
+                                        <div class="message">release-1308-env-3</div>
                                     </div>
                                 </div>
                             </section>
@@ -473,7 +473,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jul 2025, 04:04:27 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jul 2025, 05:03:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
