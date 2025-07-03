@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1092" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1175" class="large">
     <defs>
         <style/>
     </defs>
@@ -265,7 +265,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 35.1 characters per line of code written</li>
+                        <li>Has approximately 35.0 characters per line of code written</li>
                         <li>Mostly pushes code around 15:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -350,6 +350,68 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 5 commits in
+                                        <span class="repo">ttmm-jys/workspace</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#edaf13a</div>
+                                        <div class="message">refactor(api): 创建统一的请求上下文中间件
+
+- 创建 RequestContextMiddleware 统一处理所有请求元数据
+- 集中管理 request ID、IP、设备 ID 等信息
+- 移除重复的设备 ID 中间件，功能整合到统一中间件
+- 简化 LoggerModule 和 ClsModule 配置，避免重复逻辑
+- 确保请求上下文在所有地方都可用
+- 优先级：RequestContextMiddleware &gt; Pino &gt; CLS &gt; 其他中间件</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#603b84c</div>
+                                        <div class="message">fix(api): 优化设备 ID 处理逻辑
+
+- 支持客户端传递的设备 ID（无前缀）和服务端生成的设备 ID（有前缀）
+- 验证规则支持两种格式：20位字母数字或 ik+20位字母数字
+- 统一处理：确保所有设备 ID 在内部使用时都有 ik 前缀
+- 保持向后兼容性</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5646c49</div>
+                                        <div class="message">fix(api): 修改设备 ID 前缀为 ik
+
+- 设备 ID 格式改为: ik + 20位随机字母数字（无下划线）
+- 示例: ik9eQorlAJ9SSH6z0i9Kks
+- 更新验证规则和注释</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#27355ad</div>
+                                        <div class="message">fix(api): 修改设备 ID 格式为类似 fingerprintjs 风格
+
+- 设备 ID 格式改为: dev_ + 20位随机字母数字
+- 示例: dev_9eQorlAJ9SSH6z0i9Kks
+- 验证规则相应更新</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eeeb536</div>
+                                        <div class="message">feat(api): 统一请求上下文处理并实现设备 ID 中间件
+
+- 修复 GraphQL 导入错误，从 @nestjs/graphql 导入 GraphQLError
+- 统一请求 ID 和 IP 处理，使用 nestjs-pino 生成的 UUID
+- 实现设备 ID 中间件，生成 TikTok 风格的 17 位数字 ID
+- 设备 ID 同时返回在响应头和 Cookie 中
+- CLS 服务增加设备 ID 存储和获取功能</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -577,26 +639,6 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-app-frontend-admin</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#72bca18</div>
-                                        <div class="message">release-1355-env-4</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -620,7 +662,7 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jul 2025, 03:03:45 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jul 2025, 04:04:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
