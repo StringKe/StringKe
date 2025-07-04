@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1192" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1148" class="large">
     <defs>
         <style/>
     </defs>
@@ -357,6 +357,26 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">super-game-white/devtron-app-frontend-admin</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6ad7a3a</div>
+                                        <div class="message">release-1363-env-4</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 4 commits in
                                         <span class="repo">ttmm-jys/workspace</span>
                                     </div>
@@ -568,48 +588,6 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">ttmm-jys/workspace</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#63d107e</div>
-                                        <div class="message">refactor(api): 移除不必要的枚举重新导出
-
-- 删除 infrastructure/schedule/enums/index.ts 文件
-- 更新 infrastructure/schedule/index.ts，移除对 enums 的导出
-- 所有文件已经正确地从 /src/enums 文件夹直接导入枚举</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#37c66b2</div>
-                                        <div class="message">fix(api): 修复 GraphQL WebSocket 上下文处理
-
-- 更新 graphql-ws 的 onConnect 配置，使用 extra 字段存储上下文
-- 修改 WebSocketAuthService 返回包含 authContext 和 requestContext 的对象
-- 更新 GraphQLRequestContext 接口以包含认证和请求上下文
-- 修复 context 函数以正确处理 WebSocket 和 HTTP 请求
-- 在 CLAUDE.md 中添加 WebSocket 订阅规范文档</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f2292f</div>
-                                        <div class="message">fix(api): 修复 AdminMenuSortItem GraphQL 输入类型定义
-
-- 添加 @InputType 装饰器到 AdminMenuSortItem 类
-- 为 id 和 sort 字段添加 @Field 装饰器
-- 修复应用启动时的 GraphQL 类型错误</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -633,7 +611,7 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jul 2025, 19:03:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jul 2025, 20:06:22 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
