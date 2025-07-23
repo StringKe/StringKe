@@ -260,7 +260,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 190 commits)</small>
+                    <small class="h-details">(computed from last 192 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -362,8 +362,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e8bc3da</div>
-                                        <div class="message">release-251-env-4</div>
+                                        <div class="sha">#089c596</div>
+                                        <div class="message">release-255-env-6</div>
                                     </div>
                                 </div>
                             </section>
@@ -382,8 +382,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#14ca6ac</div>
-                                        <div class="message">release-250-env-4</div>
+                                        <div class="sha">#6a8c092</div>
+                                        <div class="message">release-254-env-8</div>
                                     </div>
                                 </div>
                             </section>
@@ -396,14 +396,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-mum-app-be-service-user</span>
+                                        <span class="repo">super-game-white/devtron-app-frontend-mobile</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7923b4c</div>
-                                        <div class="message">release-249-env-6</div>
+                                        <div class="sha">#9ae5bef</div>
+                                        <div class="message">release-1768-env-3</div>
                                     </div>
                                 </div>
                             </section>
@@ -416,14 +416,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-mum-app-be-service-user</span>
+                                        <span class="repo">super-game-white/devtron-app-frontend-mobile</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5d701f4</div>
-                                        <div class="message">release-248-env-4</div>
+                                        <div class="sha">#0e995c3</div>
+                                        <div class="message">release-1767-env-2</div>
                                     </div>
                                 </div>
                             </section>
@@ -436,14 +436,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-mum-app-be-service-user</span>
+                                        <span class="repo">super-game-white/devtron-app-frontend-mobile</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8e4b9d5</div>
-                                        <div class="message">release-247-env-8</div>
+                                        <div class="sha">#2df2f9e</div>
+                                        <div class="message">release-1766-env-4</div>
                                     </div>
                                 </div>
                             </section>
@@ -471,7 +471,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jul 2025, 08:15:31 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jul 2025, 09:32:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
