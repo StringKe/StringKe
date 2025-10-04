@@ -356,14 +356,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-mum-app-fe-admin</span>
+                                        <span class="repo">super-game-white/devtron-mum-app-be-service-infra</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#874595a</div>
-                                        <div class="message">release-1823-env-20</div>
+                                        <div class="sha">#bcbbdc4</div>
+                                        <div class="message">release-1831-env-20</div>
                                     </div>
                                 </div>
                             </section>
@@ -376,14 +376,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-mum-app-fe-admin</span>
+                                        <span class="repo">super-game-white/devtron-mum-app-be-service-system</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#37a27b8</div>
-                                        <div class="message">release-1822-env-19</div>
+                                        <div class="sha">#8b83097</div>
+                                        <div class="message">release-1830-env-20</div>
                                     </div>
                                 </div>
                             </section>
@@ -396,34 +396,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-mum-app-fe-admin</span>
+                                        <span class="repo">super-game-white/devtron-mum-app-be-service-pay</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#f965aaa</div>
-                                        <div class="message">release-1821-env-20</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-mum-app-be-service-report</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#26607a4</div>
-                                        <div class="message">release-1820-env-19</div>
+                                        <div class="sha">#c91010d</div>
+                                        <div class="message">release-1829-env-20</div>
                                     </div>
                                 </div>
                             </section>
@@ -442,8 +422,28 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#06d03b4</div>
-                                        <div class="message">release-1819-env-20</div>
+                                        <div class="sha">#ed93979</div>
+                                        <div class="message">release-1828-env-20</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">super-game-white/devtron-mum-app-be-service-analytics</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1cab511</div>
+                                        <div class="message">release-1827-env-20</div>
                                     </div>
                                 </div>
                             </section>
@@ -471,7 +471,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Oct 2025, 21:06:41 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Oct 2025, 22:04:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
