@@ -264,7 +264,7 @@
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Mostly pushes code around 17:00</li>
+                        <li>Mostly pushes code around 20:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
                 </div>
@@ -356,14 +356,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-mum-app-be-service-activity</span>
+                                        <span class="repo">super-game-white/devtron-mum-app-be-service-user</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7eb6597</div>
-                                        <div class="message">release-1977-env-20</div>
+                                        <div class="sha">#e816276</div>
+                                        <div class="message">release-1988-env-20</div>
                                     </div>
                                 </div>
                             </section>
@@ -382,8 +382,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#78bb211</div>
-                                        <div class="message">release-1976-env-20</div>
+                                        <div class="sha">#595e8a3</div>
+                                        <div class="message">release-1987-env-20</div>
                                     </div>
                                 </div>
                             </section>
@@ -396,14 +396,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-mum-app-be-service-pay</span>
+                                        <span class="repo">super-game-white/devtron-mum-app-be-service-activity</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#57353e2</div>
-                                        <div class="message">release-1975-env-20</div>
+                                        <div class="sha">#b3d92c1</div>
+                                        <div class="message">release-1986-env-20</div>
                                     </div>
                                 </div>
                             </section>
@@ -416,14 +416,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-mum-app-be-gateway</span>
+                                        <span class="repo">super-game-white/devtron-mum-app-be-service-account</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dd93ed8</div>
-                                        <div class="message">release-1974-env-20</div>
+                                        <div class="sha">#2036c89</div>
+                                        <div class="message">release-1985-env-20</div>
                                     </div>
                                 </div>
                             </section>
@@ -436,14 +436,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">super-game-white/devtron-mum-app-be-service-infra</span>
+                                        <span class="repo">super-game-white/devtron-mum-app-be-service-system</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#364cd52</div>
-                                        <div class="message">release-1973-env-20</div>
+                                        <div class="sha">#01dc855</div>
+                                        <div class="message">release-1984-env-20</div>
                                     </div>
                                 </div>
                             </section>
@@ -471,7 +471,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Oct 2025, 12:04:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Oct 2025, 13:04:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
