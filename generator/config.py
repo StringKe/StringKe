@@ -86,6 +86,7 @@ def validate_config(config: dict) -> dict:
     )
     lang_cfg = config.setdefault("languages", {})
     lang_cfg.setdefault("exclude", [])
+    lang_cfg.setdefault("exclude_repos", [])
     lang_cfg.setdefault("max_display", 8)
 
     return config

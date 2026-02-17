@@ -79,8 +79,9 @@ def generate(args):
             stats = {"commits": 0, "stars": 0, "prs": 0, "issues": 0, "repos": 0}
 
         logger.info("Fetching languages...")
+        exclude_repos = config.get("languages", {}).get("exclude_repos", [])
         try:
-            languages = api.fetch_languages()
+            languages = api.fetch_languages(exclude_repos=exclude_repos)
         except (requests.exceptions.RequestException, ValueError, KeyError) as e:
             logger.warning("Could not fetch languages (%s). Using defaults.", e)
             languages = {}

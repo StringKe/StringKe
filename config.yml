@@ -72,4 +72,11 @@ languages:
     - "Shell"
     - "Makefile"
     - "Dockerfile"
+    - "C++"
+    - "POV-Ray SDL"
+    - "Less"
+    - "SCSS"
+  exclude_repos:
+    - "skia"
+    - "StringKe"
   max_display: 8

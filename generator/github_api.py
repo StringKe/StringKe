@@ -198,12 +198,17 @@ class GitHubAPI:
             logger.warning("Search API failed for '%s': %s", query, e)
         return 0
 
-    def fetch_languages(self) -> dict:
+    def fetch_languages(self, exclude_repos: list = None) -> dict:
         """Fetch language byte counts aggregated across all owned non-fork repos."""
+        exclude_repos = set(exclude_repos or [])
         languages = {}
         for repos in self._paginate_repos():
             for repo in repos:
                 if repo.get("fork"):
+                    continue
+                full_name = repo.get("full_name", "")
+                repo_name = repo.get("name", "")
+                if full_name in exclude_repos or repo_name in exclude_repos:
                     continue
                 try:
                     lang_resp = self._request("GET", repo["languages_url"])
