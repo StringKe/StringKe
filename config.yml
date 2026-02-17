@@ -1,0 +1,75 @@
+username: StringKe
+
+profile:
+  name: "StringKe"
+  tagline: "Full Stack Developer"
+  company: ""
+  location: "China"
+  bio: |
+    A full stack developer passionate about building great tools.
+    TypeScript / Go / Rust — making ideas happen.
+  philosophy: '"Build tools that make developers lives easier."'
+
+social:
+  email: ""
+  linkedin: ""
+  website: "https://qingmu.me/"
+
+galaxy_arms:
+  - name: "Frontend"
+    color: "dendrite_violet"
+    items:
+      - "TypeScript"
+      - "React"
+      - "Next.js"
+  - name: "Backend"
+    color: "synapse_cyan"
+    items:
+      - "Go"
+      - "Node.js"
+      - "PostgreSQL"
+  - name: "DevOps"
+    color: "axon_amber"
+    items:
+      - "Docker"
+      - "Kubernetes"
+      - "GitHub Actions"
+
+projects:
+  - repo: "StringKe/fdbd"
+    arm: 0
+    description: "Fast database design tool."
+  - repo: "StringKe/simple-qrbtf"
+    arm: 0
+    description: "Generate SVG QR codes in Node.js / Browser."
+  - repo: "StringKe/terminal-farm"
+    arm: 1
+    description: "Terminal UI automation tool with multi-account support."
+
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+    - "Dockerfile"
+  max_display: 8
