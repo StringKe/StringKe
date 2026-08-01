@@ -23,31 +23,31 @@
     </g>
     <g transform="translate(30, 87)">
       <text x="0" y="0" fill="#94a3b8" font-size="11" font-family="sans-serif" dominant-baseline="middle">Go</text>
-      <rect x="110" y="-6" width="58.599999999999994" height="12" rx="3" fill="#00ADD8" opacity="0.85">
-        <animate attributeName="width" from="0" to="58.599999999999994" dur="0.8s" begin="0.1s" fill="freeze"/>
+      <rect x="110" y="-6" width="58.4" height="12" rx="3" fill="#00ADD8" opacity="0.85">
+        <animate attributeName="width" from="0" to="58.4" dur="0.8s" begin="0.1s" fill="freeze"/>
       </rect>
-      <text x="320" y="0" fill="#64748b" font-size="10" font-family="monospace" dominant-baseline="middle">29.3%</text>
+      <text x="320" y="0" fill="#64748b" font-size="10" font-family="monospace" dominant-baseline="middle">29.2%</text>
     </g>
     <g transform="translate(30, 109)">
       <text x="0" y="0" fill="#94a3b8" font-size="11" font-family="sans-serif" dominant-baseline="middle">Rust</text>
-      <rect x="110" y="-6" width="40.0" height="12" rx="3" fill="#dea584" opacity="0.85">
-        <animate attributeName="width" from="0" to="40.0" dur="0.8s" begin="0.2s" fill="freeze"/>
+      <rect x="110" y="-6" width="39.8" height="12" rx="3" fill="#dea584" opacity="0.85">
+        <animate attributeName="width" from="0" to="39.8" dur="0.8s" begin="0.2s" fill="freeze"/>
       </rect>
-      <text x="320" y="0" fill="#64748b" font-size="10" font-family="monospace" dominant-baseline="middle">20.0%</text>
+      <text x="320" y="0" fill="#64748b" font-size="10" font-family="monospace" dominant-baseline="middle">19.9%</text>
     </g>
     <g transform="translate(30, 131)">
       <text x="0" y="0" fill="#94a3b8" font-size="11" font-family="sans-serif" dominant-baseline="middle">JavaScript</text>
-      <rect x="110" y="-6" width="15.8" height="12" rx="3" fill="#f1e05a" opacity="0.85">
-        <animate attributeName="width" from="0" to="15.8" dur="0.8s" begin="0.30000000000000004s" fill="freeze"/>
+      <rect x="110" y="-6" width="16.2" height="12" rx="3" fill="#f1e05a" opacity="0.85">
+        <animate attributeName="width" from="0" to="16.2" dur="0.8s" begin="0.30000000000000004s" fill="freeze"/>
       </rect>
-      <text x="320" y="0" fill="#64748b" font-size="10" font-family="monospace" dominant-baseline="middle">7.9%</text>
+      <text x="320" y="0" fill="#64748b" font-size="10" font-family="monospace" dominant-baseline="middle">8.1%</text>
     </g>
     <g transform="translate(30, 153)">
       <text x="0" y="0" fill="#94a3b8" font-size="11" font-family="sans-serif" dominant-baseline="middle">Vue</text>
-      <rect x="110" y="-6" width="8.8" height="12" rx="3" fill="#41b883" opacity="0.85">
-        <animate attributeName="width" from="0" to="8.8" dur="0.8s" begin="0.4s" fill="freeze"/>
+      <rect x="110" y="-6" width="8.6" height="12" rx="3" fill="#41b883" opacity="0.85">
+        <animate attributeName="width" from="0" to="8.6" dur="0.8s" begin="0.4s" fill="freeze"/>
       </rect>
-      <text x="320" y="0" fill="#64748b" font-size="10" font-family="monospace" dominant-baseline="middle">4.4%</text>
+      <text x="320" y="0" fill="#64748b" font-size="10" font-family="monospace" dominant-baseline="middle">4.3%</text>
     </g>
     <g transform="translate(30, 175)">
       <text x="0" y="0" fill="#94a3b8" font-size="11" font-family="sans-serif" dominant-baseline="middle">MDX</text>
